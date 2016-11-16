@@ -34,7 +34,7 @@ Environmental Studies is an interdisciplinary major offered by the Department of
 
 ## Minor
 
-A minor in ES is available to any student enrolled at Temple University and many students choose to add a ES minor as a complement to their program of study. This is an 18-credit minor, requiring students to take one Gateway course and five electives. More information about the ES minor is available here.
+A minor in ES is available to any student enrolled at Temple University and many students choose to add a ES minor as a complement to their program of study. This is an 18-credit minor, requiring students to take one Gateway course and five electives. More information about the ES minor is available [here](http://bulletin.temple.edu/undergraduate/liberal-arts/environmental-studies/minor-environmental-studies/).
 
 ## Curriculum
 
@@ -44,8 +44,10 @@ The Environmental Studies major requires students to complete a total of 39 cred
 
 Environment Studies students will acquire an understanding in the following areas:
 
-Current environmental issues such as health and justice, geospatial techniques and environmental policy;
-Social science approaches to examining nature-society relations;
-Environmental principles including earth processes, global climate change, environmental hazards, and natural resource management;
-Basic economic principles through the intersection of geography of natural resource management, economics, and development; and
-Rigorous social science research on environmental issues, including qualitative and quantitative methods, policy research, Geographic Information Systems (GIS), and spatial statistics.
+- Current environmental issues such as health and justice, geospatial techniques and environmental policy;
+- Social science approaches to examining nature-society relations;
+- Environmental principles including earth processes, global climate change, environmental hazards, and natural resource management;
+- Basic economic principles through the intersection of geography of natural resource management, economics, and development; and
+- Rigorous social science research on environmental issues, including qualitative and quantitative methods, policy research, Geographic - Information Systems (GIS), and spatial statistics.
+
+View current descriptions of the Environmental Studies Major and Minor and their requirements on the [undergraduate bulletin](http://bulletin.temple.edu/undergraduate/liberal-arts/environmental-studies/).
