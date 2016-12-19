@@ -1,7 +1,7 @@
 ---
 title: Home
 permalink: "/"
-layout: page
+layout: home
 ---
 
 The Environmental Studies program examines the nature, causes and consequences of human  interactions with the environment. Our curriculum is focused around the themes of globalization, sustainability, social justice and geographic methods.
