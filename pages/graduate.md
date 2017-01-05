@@ -1,7 +1,8 @@
 ---
 title: Graduate
-permalink: "/graduate"
+permalink: /graduate
 layout: page
+published: true
 ---
 
 ## PSM in GIS
@@ -31,4 +32,4 @@ Our 12-credit graduate certificate in GIS is open to all students who have compl
 ## Academic offerings
 
 - Graduate Certificate in Geographic Information Systems (GIS)
-- Professional Science Master’s in Geographic Information Systems (PSM in GIS)
+-[Professional Science Master’s in Geographic Information Systems (PSM in GIS)](http://bulletin.temple.edu/graduate/scd/cla/geographic-information-systems-psm/)
