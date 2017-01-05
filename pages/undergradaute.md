@@ -1,7 +1,8 @@
 ---
 title: Undergraduate
-permalink: "/undergraduate"
+permalink: /undergraduate
 layout: page
+published: true
 ---
 The bachelor’s degree in environmental studies for students interested in learning about environmental processes, the geography of natural resources and geospatial technologies. We teach qualitative and quantitative social science research methods to help students understand the relationships between people and their environment. This major prepares students for graduate programs in environmental studies, law, geography, planning and other fields.
 
@@ -22,11 +23,11 @@ While maintaining a global perspective, being an  environmental studies program 
 
 ## Academic offerings
 
- - BA in Environmental Studies
- - Minor in Environmental Studies
- - Certificate in Geographic Information Systems(GIS)
+ - [BA in Environmental Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/environmental-studies/ba-environmental-studies/)
+ - [Minor in Environmental Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/environmental-studies/minor-environmental-studies/)
+ - [Certificate in Geographic Information Systems(GIS)](http://bulletin.temple.edu/undergraduate/liberal-arts/geography-urban-studies/certificate-geographic-information-systems/)
  - Graduate Certificate in Geographic Information Systems (GIS)
- - Professional Science Master’s in Geographic Information Systems (PSM in GIS)
+ - [Professional Science Master’s in Geographic Information Systems (PSM in GIS)](http://bulletin.temple.edu/graduate/scd/cla/geographic-information-systems-psm/)
  
 ## Major in Environmental Studies
 
