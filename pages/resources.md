@@ -1,7 +1,8 @@
 ---
 title: Resources
-permalink: "/resources"
+permalink: /resources
 layout: page
+published: true
 ---
 
 ## Resources here here to help!
@@ -38,4 +39,4 @@ We encourage students to study abroad for one semester, which can be a critical 
 
 ## Internships
 
-We encourage students to incorporate an internship into their plan of study. We have relationships with local employers and students can receive academic credit for completed internships. To see a list of organizations where our students have interned, please follow the link here.
+We encourage students to incorporate an internship into their plan of study. We have relationships with local employers and students can receive academic credit for completed internships. To see a list of organizations where our students have interned, please follow the link [here](http://www.cla.temple.edu/gus/undergraduate/list-of-recent-internships/).
