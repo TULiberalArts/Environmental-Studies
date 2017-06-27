@@ -5,9 +5,9 @@ meta-keywords: 3 or 4 unique for this page
 permalink: /
 layout: home
 feature: false
-feature-title: 
-feature-body: 
-feature-image: 
+feature-title: null
+feature-body: null
+feature-image: null
 published: true
 ---
 
@@ -25,10 +25,10 @@ We equip our students with the tools to understand and address the crucial envir
 
 <div class="row row-wide">
   <div class="col m12 l4">{% include cards/card2-image.html 
-    title=" " 
-    content=" " 
+    title="Small Department. Big Opportunities." 
+    content="The environmental studies program is affiliated with the Department of Geography and Urban Studies — a department with a highly respected faculty invested in student success. Our faculty and administrative staff give students unmatched attention through mentorship,  extracurricular and research opportunities." 
     image="" 
-    button-link=" " 
+    button-link="/environmental-studies/undergraduate" 
     button-text="Learn More" %}
   </div>
   <div class="row row-wide">
@@ -41,10 +41,10 @@ We equip our students with the tools to understand and address the crucial envir
     </div>
     <div class="row row-wide">
       <div class="col m12 l4">{% include cards/card2-image.html 
-        title=" " 
-        content=" " 
+        title="Save the Planet and Advance Your Career" 
+        content="Our students land competitive, meaningful jobs upon graduation in Philadelphia and beyond, working in business, government and non-profits sectors. The US Department of Labor projects much faster than average job growth in environmentally related fields." 
         image="" 
-        button-link=" " 
+        button-link="/environmental-studies/next-stops" 
         button-text="Learn More" %}
       </div>
 </div>
