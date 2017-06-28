@@ -5,18 +5,7 @@ permalink: /next-stops/
 layout: page
 published: true
 ---
-
-Recently, our students and alumni have landed coveted internship and full-time positions with the following employers:
-
-- Environmental Protection Agency
-- Mayor’s Office of Sustainability
-- Delaware Valley Regional Planning Commission (DVRPC
-- Clean Air Council
-- Greenpeace
-- National Park Service
-- Bicycle Coalition
-- Philadelphia Urban Creators
-- W. Atlee Burpee Trial Gardens
+Our graduates go on to succeed in a range of careers in growing fields. Convinced? [Make your declaration](#make-your-declaration), learn about [transfer options](#thinking-of-transferring) or [apply to Temple](#apply). 
 
 ## Careers in Environmental Studies
 
@@ -34,6 +23,18 @@ From Peace Corps Volunteers and Fulbright Scholars, to urban agriculture and ene
 - Entrepreneurship
 - Urban Gardening
 - Research
+
+Recently, our students and alumni have landed coveted internship and full-time positions with the following employers:
+
+- Environmental Protection Agency
+- Mayor’s Office of Sustainability
+- Delaware Valley Regional Planning Commission (DVRPC
+- Clean Air Council
+- Greenpeace
+- National Park Service
+- Bicycle Coalition
+- Philadelphia Urban Creators
+- W. Atlee Burpee Trial Gardens
 
 ## Make your Declaration
 
