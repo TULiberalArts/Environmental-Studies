@@ -32,6 +32,8 @@ sidebar-content: >
   204-3386](tel:2152043386)<br/>
   [julia.falcon@temple.edu](mailto:julia.falcon@temple.edu)<br/>
 ---
+Our environmental studies offerings include a bachelor's degree and a minor.
+
 ## Academic offerings
 
  - [BA in Environmental Studies](#major-in-environmental-studies)
