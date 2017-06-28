@@ -4,9 +4,13 @@ meta-description: 100 or so words
 meta-keywords: 3 or 4 unique for this page
 permalink: /
 layout: home
-feature: false
-feature-title: null
-feature-body: null
+feature: true
+feature-title: Study the Environment
+feature-body: >-
+  The Environmental Studies program examines the nature, causes and consequences
+  of     human interactions with the environment. Our curriculum is focused
+  around the themes   of globalization, sustainability, social justice and
+  geographic methods.
 feature-image: null
 published: true
 ---
