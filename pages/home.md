@@ -14,7 +14,15 @@ feature-body: >-
 feature-image: null
 published: true
 ---
-We equip our students with the tools to understand and address the crucial environmental issues of our time, such as climate change, food access and natural resource consumption. Through interdisciplinary coursework that confers strong  social science skills with technical training, our students are trained to analyze multi-faceted problems with a range of analytical tools and  skills.
+We equip our students with the tools to understand and address the crucial environmental issues of our time, such as climate change, food access and natural resource consumption. Through interdisciplinary coursework that confers strong social science skills with technical training, our students are trained to analyze multi-faceted problems with a range of analytical tools and  skills, including the following:
+
+   - A global approach 
+   - Spatial thinking 
+   - An interdisciplinary perspective 
+   - Understanding of the complexity of interactions between humans and the environment 
+   - Social science research methods, policy analysis, and technical skills 
+   - Written, oral and visual communication skills 
+   - Geographic Information Systems (GIS) and mapping software
 
 <div class="row row-wide">
   <div class="col m12 l4">{% include cards/card2-image.html 
