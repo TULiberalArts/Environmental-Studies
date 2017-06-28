@@ -26,17 +26,17 @@ We equip our students with the tools to understand and address the crucial envir
 <div class="row row-wide">
   <div class="col m12 l4">{% include cards/card2-image.html 
     title="Small Department. Big Opportunities." 
-    content="The environmental studies program is affiliated with the Department of Geography and Urban Studies — a department with a highly respected faculty invested in student success. Our faculty and administrative staff give students unmatched attention through mentorship,  extracurricular and research opportunities." 
+    content="The environmental studies program is affiliated with the Department of Geography and Urban Studies — a department highly invested in student success." 
     image="" 
     button-link="/environmental-studies/undergraduate" 
     button-text="Learn More" %}
   </div>
   <div class="row row-wide">
     <div class="col m12 l4">{% include cards/card2-image.html 
-      title=" " 
-      content=" " 
+      title="Highly Respected Faculty" 
+      content="Our faculty and administrative staff give students unmatched attention through mentorship, extracurricular and research opportunities." 
       image="" 
-      button-link=" " 
+      button-link="/environmental-studies/faculty" 
       button-text="Learn More" %}
     </div>
     <div class="row row-wide">
