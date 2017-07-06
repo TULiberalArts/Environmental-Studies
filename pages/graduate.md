@@ -6,38 +6,34 @@ layout: page
 published: true
 sidebar: true
 sidebar-content: > #
-  ### Contact Us
+  **Chair:**  
+   Melissa Gilbert  
+   309 Gladfelter Hall  
+   [(215) 204-5482](tel:2152045482)  
+   [mgilbert@temple.edu](mailto:mgilbert@temple.edu)  
+   
+   ___
+   
+   **Graduate Chair:**  
+   Kevin A. Henry  
+   313B Gladfelter Hall    
+   [khenry1@temple.edu](mailto:khenry1@temple.edu)  
+   
+   ___
+   
+   **Administrator:**  
+   Maggie Cogswell  
+   1008A Gladfelter Hall   
+   [(215) 204-9209](tel:2152049209)  
+   [tuf70408@temple.edu](mailto:tuf70408@temple.edu)  
+   
+   ___
 
-  <hr>
-
-  **Chair:** <br/>
-  Melissa Gilbert<br/>
-  309 Gladfelter Hall<br/>
-  [(215) 204-5482](tel:2152045482)<br/>
-  [mgilbert@temple.edu](mailto:mgilbert@temple.edu)<br/>
-  
-   <hr>
-  
-  **Graduate Chair:**
-  Kevin A. Henry<br/>
-  313B Gladfelter Hall<br/>
-  [khenry1@temple.edu](mailto:khenry1@temple.edu)<br/>
-  
-  <hr>
-
-  **Administrator:**
-  Maggie Cogswell<br/>
-  1008A Gladfelter Hall<br/>
-  [(215) 204-9209](tel:2152049209)<br/>
-  [tuf70408@temple.edu](mailto:tuf70408@temple.edu)<br/>
-
-  <hr>
-
-  **Coordinator:** <br/>
-  Julia Falcon<br/>
-  338A Gladfelter Hall<br/>
-  [(215) 204-3386](tel:2152043386)<br/>
-  [julia.falcon@temple.edu](mailto:julia.falcon@temple.edu)<br/>
+   **Coordinator:**  
+   Julia Falcon  
+   338A Gladfelter Hall    
+   [(215) 204-3386](tel:2152043386)   
+   [julia.falcon@temple.edu](mailto:julia.falcon@temple.edu)  
 ---
 
 ## PSM in GIS
