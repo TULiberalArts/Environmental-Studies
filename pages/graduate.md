@@ -15,14 +15,14 @@ sidebar-content: > #
    ___
    
    **Graduate Chair:**  
-   Kevin A. Henry  
+   Kevin A. Henry      
    313B Gladfelter Hall    
    [khenry1@temple.edu](mailto:khenry1@temple.edu)  
    
    ___
    
    **Administrator:**  
-   Maggie Cogswell  
+   Maggie Cogswell   
    1008A Gladfelter Hall   
    [(215) 204-9209](tel:2152049209)  
    [tuf70408@temple.edu](mailto:tuf70408@temple.edu)  
