@@ -1,37 +1,38 @@
 ---
 # Program/Department Title
 title: Environmental Studies
-# Site URL (without /)
-url: ""
 # Subdirectory (with / at only at beginning)
 baseurl: /environmental-studies
+# Production domain (without / at the end)
+production: https://www.cla.temple.edu
+
 
 # Program Information
 # Short tagline for tweets (<100 characters)
 tagline: This is our life's work
 # Longer descriptions for link previews (<250 characters)
-description: 'Example of what the TU Theme will look like and all the wiz-bang things it can do. This Static Site was generated with Jekyll.'
+description: 'The Environmental Studies program examines the nature, causes and consequences of human  interactions with the environment. Our curriculum is focused around the themes of globalization, sustainability, social justice and geographic methods.'
 # List of related keywords for search engines
 keywords: highered, college, university, philadelphia, Temple
 
 # Address
 address:
   building: Anderson Hall
-  room: 3rd Floor, Room 308
+  room: 308
   street: 1114 Polett Walk
-  city: Phialdelphia, PA 19122
+  city: Philadelphia, PA 19122
   email: environmental-studies@temple.edu
-  phone: 2152043386
+  phone: 215-204-3386
 
 # Social Media
 # Put in only the username unless otherwise noted
 # If social media does not apply to your department, keep it blank or use the default values.
 social:
-  # Facebook - https://www.facebook.com/TempleGUS
+  # Facebook - https://www.facebook.com/USERNAME
   # if your page does not have a custom URL, create one!
-  facebook: TempleLiberalArts
-  # Twitter - https://twitter.com/TempleGUS
-  twitter: TULiberalArts
+  facebook: TempleGUS
+  # Twitter - https://twitter.com/USERNAME
+  twitter: TempleGUS
   # Instagram - https://www.instagram.com/USERNAME
   instagram: TULiberalArts
   # Snapchat - USERNAME
@@ -50,10 +51,23 @@ social:
   slack:
 
 # University & College Information
-university: Temple University
-university.url: https://temple.edu/
-college: College of Liberal Arts
-college.url: https://liberalarts.temple.edu/
+university:
+  name: Temple University
+  url: https://temple.edu/
+college:
+  name: College of Liberal Arts
+  url: https://liberalarts.temple.edu/
+
+# Google Tag Manager OR Google Analytics
+google_analytics:
+
+
+google_tag_manager: GTM-58ZL5B
+
+# CSV/JSON/YAML data feeds URLs, to be fetched before each build
+events-feed: https://liberalarts.temple.edu/events/environmental-studies/csv
+news-feed: https://liberalarts.temple.edu/news/environmental-studies/csv
+faculty-feed: https://liberalarts.temple.edu/profiles/environmental-studies/csv
 
 # Development Config
 # If you do not have access to 'tutheme', use 'minima' instead.
@@ -106,6 +120,8 @@ prose:
               value: faculty
             - name: home
               value: home
+
+# Jekyll Ignore
 exclude:
   - Gemfile
   - Gemfile.lock
@@ -116,3 +132,6 @@ exclude:
   - .travis.yml
   - .ruby-version
   - .gitignore
+  - vendor
+  - _site
+  - node_modules
