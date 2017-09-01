@@ -43,7 +43,7 @@ We equip our students with the tools to understand and address the crucial envir
     <div class="row row-wide">
       <div class="col m12 l4">{% include cards/card2-image.html 
         title="Save the Planet and Advance Your Career" 
-        content="Our students land competitive, meaningful jobs upon graduation in Philadelphia and beyond, working in business, government and non-profits sectors. The US Department of Labor projects much faster than average job growth in environmentally related fields." 
+        content="Our students land competitive, meaningful jobs upon graduation in Philadelphia and beyond, working in business, government and non-profits sectors. The U.S. Department of Labor projects much faster than average job growth in environmentally related fields." 
         image="" 
         button-link="/environmental-studies/next-stops" 
         button-text="Learn More" %}
