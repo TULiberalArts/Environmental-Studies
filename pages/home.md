@@ -11,7 +11,7 @@ feature-body: >-
   of     human interactions with the environment. Our curriculum is focused
   around the themes   of globalization, sustainability, social justice and
   geographic methods.
-feature-image: null
+feature-image: hero_ES_bg.png
 published: true
 ---
 We equip our students with the tools to understand and address the crucial environmental issues of our time, such as climate change, food access and natural resource consumption. Through interdisciplinary coursework that confers strong social science skills with technical training, our students are trained to analyze multi-faceted problems with a range of analytical tools and  skills, including the following:
