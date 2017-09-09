@@ -62,7 +62,6 @@ Our 12-credit graduate certificate in GIS is open to all students who have compl
 
 ## Academic offerings
 
-- [Graduate Certificate in Geographic Information Systems (GIS)](http://bulletin.temple.edu/graduate/scd/cla/geographic-information-systems-certificate/)
--[Professional Science Master’s in Geographic Information Systems (PSM in GIS)](http://bulletin.temple.edu/graduate/scd/cla/geographic-information-systems-psm/)
-- [PhD in Geography and Urban Studies](http://bulletin.temple.edu/graduate/scd/cla/geography-urban-studies-phd/)
-- [MA in Geography and Urban Studies](http://bulletin.temple.edu/graduate/scd/cla/geography-urban-studies-ma/)
+- [PhD in Geography and Urban Studies](#phd-in-geography-and-urban-studies)
+- [MA in Geography and Urban Studies](#ma-in-geography-and-urban-studies)
+- [Graduate Certificate in Geographic Information Systems](#graduate-certificate-in-gis) (GIS)
