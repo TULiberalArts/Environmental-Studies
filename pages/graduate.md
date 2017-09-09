@@ -38,7 +38,7 @@ sidebar-content: > #
 
 ## PSM in GIS
 
-The primary goal of the program is to graduate students who are competitive on the GIS job market for an array of GIS-related jobs in industry, government, and non-profit organizations based on their conceptual understanding and practical skills in GIS, professional development, and understanding of the field of GIS. Additional specific program outcomes include:
+The primary goal of the program is to mold graduate students who are competitive on the GIS job market for an array of GIS-related jobs in industry, government, and non-profit organizations based on their conceptual understanding and practical skills in GIS, professional development, and understanding of the field of GIS. Additional specific program outcomes include:
 
 - Solid grasp of fundamental GIS concepts, as well as cutting edge and recent trends in GIS
 - Preparation to become a certified geographic information systems professional (GISP)
@@ -62,5 +62,7 @@ Our 12-credit graduate certificate in GIS is open to all students who have compl
 
 ## Academic offerings
 
-- Graduate Certificate in Geographic Information Systems (GIS)
+- [Graduate Certificate in Geographic Information Systems (GIS)](http://bulletin.temple.edu/graduate/scd/cla/geographic-information-systems-certificate/)
 -[Professional Science Master’s in Geographic Information Systems (PSM in GIS)](http://bulletin.temple.edu/graduate/scd/cla/geographic-information-systems-psm/)
+- [PhD in Geography and Urban Studies](http://bulletin.temple.edu/graduate/scd/cla/geography-urban-studies-phd/)
+- [MA in Geography and Urban Studies](http://bulletin.temple.edu/graduate/scd/cla/geography-urban-studies-ma/)
