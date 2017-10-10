@@ -2,8 +2,6 @@
 title: Undergraduate
 permalink: /undergraduate/
 layout: page
-keywords: ''
-description: >-
 published: true
 sidebar: true
 sidebar-content: |
@@ -37,18 +35,7 @@ sidebar-content: |
    [(215) 204-3386](tel:2152043386)   
    [julia.falcon@temple.edu](mailto:julia.falcon@temple.edu)
 ---
-
-Our environmental studies offerings include a bachelor's degree and a minor.
-
-When you are ready to apply, submit your application online at [admissions.temple.edu/apply](admissions.temple.edu/apply).
-
-## Academic offerings
-
- - [BA in Environmental Studies](#major-in-environmental-studies)
- - [Minor in Environmental Studies](#minor-in-environmental-studies)
- 
 ## Major in Environmental Studies
-
 The interdisciplinary [environmental studies major](http://bulletin.temple.edu/undergraduate/liberal-arts/environmental-studies/ba-environmental-studies/) offered by the Department of Geography and Urban Studies examines the nature, causes and consequences of human interactions with the environment. Students in environmental studies gain the intellectual and methodological tools to understand and address the crucial environmental issues of our time and the impact on individuals, society, and the planet. Our students are introduced to physical geography, an understanding of the economic system, and social science methods (GIS, spatial statistics, remote sensing, environmental impact assessment, quantitative and qualitative research methods) that then prepare them for the upper-level electives that students may tailor to their own academic interests.
 
 The bachelor’s degree in environmental studies is for students interested in learning about environmental processes, the geography of natural resources and geospatial technologies. We teach qualitative and quantitative social science research methods to help students understand the relationships between people and their environment. This major prepares students for graduate programs in environmental studies, law, geography, planning and other fields.
@@ -70,3 +57,10 @@ Environment Studies students will acquire an understanding in the following area
 ## Minor in Environmental Studies
 
 A [minor in environmental studies](http://bulletin.temple.edu/undergraduate/liberal-arts/environmental-studies/minor-environmental-studies/) is available to any student enrolled at Temple University. Many students choose to add a ES minor as a complement to their program of study. This is an 18-credit minor, requiring students to take one gateway course and five electives.
+
+### Curriculum and Academic Requirements
+- [Major in Geography and Urban Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/geography-urban-studies/ba-geography-urban-studies/)
+- [Minor in Geography and Urban Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/geography-urban-studies/minor-geography-urban-studies/)
+- [Undergraduate Certificate in Geographic Information Systems](http://bulletin.temple.edu/undergraduate/liberal-arts/geography-urban-studies/certificate-geographic-information-systems/)
+- [Major in Environmental Science](http://bulletin.temple.edu/undergraduate/liberal-arts/environmental-studies/ba-environmental-studies/)
+- [Minor in Environmental Science](http://bulletin.temple.edu/undergraduate/liberal-arts/environmental-studies/ba-environmental-studies/)
