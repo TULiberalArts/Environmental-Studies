@@ -2,50 +2,45 @@
 title: Next Stops
 permalink: /next-stops/
 layout: page
-keywords: ''
-description: >-
 published: true
 ---
-Our graduates go on to succeed in a range of careers in growing fields. Convinced? [Make your declaration](#make-your-declaration), learn about [transfer options](#thinking-of-transferring) or [apply to Temple](#apply). 
+## What Can I do with a degree in Environmental Science?
+Almost anything! Our graduates get competitive and meaningful jobs in environmental agencies, domestic and international nonprofits, community organizations, consulting firms and corporate environmental affairs departments. Many also go on to graduate programs in environmental studies, law, geography, planning and other fields. 
 
-## Careers in Environmental Studies
+Geography and Urban Studies and Environmental Studies graduates have job titles that include
 
-The environmental studies faculty and Department of Geography and Urban Studies offer broad expertise in a variety of topics as well as geographic technologies and methods that prepare students for the critical thinking and technological skills that employers are increasingly seeking in new hires. Our graduates find employment with government environmental agencies, nonprofits (domestic and international), citizens’ organizations, consulting firms and corporate environmental affairs departments. Many also go on to graduate programs in environmental studies, law, geography, planning and other fields.
+- Environmental Analyst
+- Peace Corps Volunteer
+- Land Use Planner
+- City Planner
+- Nonprofit Administrator
+- Public Policy Director
+- Environmental Attorney
+- Sustainability Specialist
+- Environmental Engineer
+- Fish and Wildlife Biologist
+- Urban Agriculture Program Coordinator 
 
-From Peace Corps Volunteers and Fulbright Scholars, to urban agriculture and energy consultants, Environmental Studies majors find employment in a wide variety of fields, including (but not limited to) the following:
+## Make Your Declaration
+The College of Liberal Arts has the largest selection of academic offerings at Temple University. Our students have the flexibility to explore all of their interests, from the humanities and social sciences to business and the media arts. The College of Liberal Arts prepares students to become innovators in all fields, across all industries. We are civic-minded, globally conscious creative thinkers, doers and risk-takers. Home to 28 departments and programs, we offer a solid liberal arts education at a premier urban, research university.
 
-- Environmental Activism and Conservation
-- Resource Management
-- State and Local Government
-- Non-Profits and NGOs
-- Geographic Information Systems (GIS)
-- Spatial Analysis
-- Education
-- Entrepreneurship
-- Urban Gardening
-- Research
+[Explore the Complete List of Academic Offerings at CLA](https://liberalarts.temple.edu/)
 
-## Make your Declaration
+## Visit Us!
+To know what Temple is really about, you have to experience it firsthand. Our Main Campus in Philadelphia is an energetic community of students, faculty and local culture. And the opportunities don’t stop there. For Temple students, all of Philadelphia is a place to learn and branch out. The Office of Admissions offers tours daily. If you would like to experience the College of Liberal Arts firsthand, get in touch with us.
 
-The College of Liberal Arts has the largest selection of  academic offerings at Temple University. Our students have the flexibility to explore all of their interests – from the humanities and social sciences to business and the media arts.   
-
-For a complete list of our academic offerings visit [liberalarts.temple.edu](http://liberalarts.temple.edu).
-
-## Visit Us
-
-The Office of Admissions offers tours daily. To register for a tour, please go to [temple.edu/visit](http://temple.edu/visit). If you would like to experience the College of Liberal Arts firsthand you can take advantage of the various visit  opportunities we have throughout the year, including the Liberal Arts Preview Day.
+[Arrange a Visit](http://admissions.temple.edu/visit)
 
 ## Thinking of Transferring?
+Almost half of incoming Temple students transfer from other colleges and universities. If you’ve taken 15 or more college-level credits after high school graduation, you can apply for admission as a transfer student. If you’re thinking about transferring, consider attending a [Transfer Tuesday](http://admissions.temple.edu/visit/transfer-tuesday) general information session. 
 
-The College of Liberal Arts offers a great deal of flexibility to help you accomplish your goals as efficiently as possible. To learn more about transferring to Temple, please visit [temple.edu/transfer](http://temple.edu/transfer).
+[Learn More about Transferring to Temple](temple.edu/transfer](http://temple.edu/transfer)
 
 ## Apply
-
-When you are ready to apply, submit your application online at [admissions.temple.edu/apply](http://admissions.temple.edu/apply). 
+Are you ready to apply? [Submit Your Application Online](http://admissions.temple.edu/apply)
 
 ## Deadlines
-
-- **February 1:** Freshman Application Deadline for Fall Semester<br>
-- **March 1:** FAFSA Financial Aid Application Deadline<br>
-- **November 1:** Transfer Deadline for Spring Semester<br>
-- **June 1:** Transfer Deadline for Fall Semester
+**February 1**: Freshman Application Deadline for Fall Semester<br/>
+**March 1**: FAFSA Financial Aid Application Deadline<br/>
+**November 1**: Transfer Deadline for Spring Semester<br/>
+**June 1**: Transfer Deadline for Fall Semester<br/>
