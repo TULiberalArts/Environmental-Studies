@@ -36,17 +36,41 @@ sidebar-content: |
    [julia.falcon@temple.edu](mailto:julia.falcon@temple.edu)
 ---
 ## Major in Environmental Studies
-Whether it is the ability to grow crops, the capability to stock-pile water or the power to mitigate the damage of natural disasters, the study of our environment plays a vital role. Studying the patterns of our planet helps us predict potential hazards and implement precautions to avoid results like global warming. If you major in environmental studies at temple you will examine environmental policy, environmental decision-making, natural hazards and risk assessment, environmental ethics and environmental justice. The curriculum is comprised of courses that introduce students to the academic discipline in a broad but comprehensive manner. Upper-level electives are tailored to your personal academic interests in the discipline. 
+If you major in environmental studies at Temple, you will gain the intellectual and methodological tools to understand and address the crucial environmental issues of our time and the impact on individuals, society and the planet. The BA in Environmental Studies introduces students to environmental processes, the geography of natural resources, geospatial technologies and qualitative and quantitative social science research methods. Required courses in our curriculum introduce students to environmental science in a broad but comprehensive manner. Upper-level electives are tailored to your personal academic interests in the discipline. 
 
-[Major in Environmental Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/environmental-studies/ba-environmental-studies/)
+[Learn More aout Majoring in Environmental Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/environmental-studies/ba-environmental-studies/)
 
 ## Minor in Environmental Studies
-Regardless of your major, a minor in geography and urban studies helps you develop skills of analysis, team work, computing and critical thinking. The 18-credit minor requires one gateway course and five electives. From teaching to tourism to 
+Regardless of your major, a minor in geography and urban studies helps you develop skills of analysis, team work, computing and critical thinking. The 18-credit minor requires one gateway course and five electives. A environmental studies minor helps you stand out when you apply for jobs or graduate school, because it shows that you have a well-rounded education.
 
+[Learn More about Minoring in Philosophy](http://bulletin.temple.edu/undergraduate/liberal-arts/environmental-studies/minor-environmental-studies/)
+
+## Academic Advising and Professional Development
+Take full advantage of the College of Liberal Arts’ flexible curriculum with the help of our award-winning advisors. We help you select a major or minor, and graduate on time. Beyond academics, our advisors ensure that you have a rich experience at Temple by complementing your academic work with study abroad programs, internships and other experiential learning opportunities.
+
+[Learn More about Temple’s Award-Winning Advisors](https://liberalarts.temple.edu/advising)
+
+## Fly in Four
+Take charge of your future and limit your debt. The Fly in 4 partnership allows you to complete your degree on time — or Temple will pay for your remaining course work. Graduating on time means your path to success starts sooner. We provide you with the resources you need to graduate in four years, like academic advising and classes offered when you need them. You commit to doing what it takes to blaze your career path in four years.
+
+[Learn How to Fly in Four](http://fly.temple.edu/)
+
+## Tuition and Fees
+For more than 125 years, we have focused on providing a world-class education at an affordable price. Just compare Temple to other comparable universities and see what we mean. Temple tuition rates vary by school or college, student level, residency status, and more. Use the Temple tuition calculator to estimate your tuition rate.
+
+[Temple Tuition Calculator](https://bursar.temple.edu/tuition-and-fees/tuition-rates)
+
+## Financial Aid and Scholarships
+At Temple, we believe that students from all walks of life should have access to an outstanding college education. If you need help paying for your education, you aren’t alone. Most students receive some form of financial aid to fund their education. About 60% of first-year Temple students receive need-based financial aid, and the average first-year financial aid package is about $15,000. Eligible students receive financial assistance from federal, state, private and university sources. Explore your financial aid options and apply early to make your college education an affordable experience. 
+
+[Student Financial Services](https://sfs.temple.edu/financial-aid-types)
+
+## Undergraduate Admissions
+Ready to apply? [Submit your application online](http://admissions.temple.edu/apply).
 
 ## Curriculum and Academic Requirements
+- [Major in Environmental Science](http://bulletin.temple.edu/undergraduate/liberal-arts/environmental-studies/ba-environmental-studies/)
+- [Minor in Environmental Science](http://bulletin.temple.edu/undergraduate/liberal-arts/environmental-studies/ba-environmental-studies/)
 - [Major in Geography and Urban Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/geography-urban-studies/ba-geography-urban-studies/)
 - [Minor in Geography and Urban Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/geography-urban-studies/minor-geography-urban-studies/)
 - [Undergraduate Certificate in Geographic Information Systems](http://bulletin.temple.edu/undergraduate/liberal-arts/geography-urban-studies/certificate-geographic-information-systems/)
-- [Major in Environmental Science](http://bulletin.temple.edu/undergraduate/liberal-arts/environmental-studies/ba-environmental-studies/)
-- [Minor in Environmental Science](http://bulletin.temple.edu/undergraduate/liberal-arts/environmental-studies/ba-environmental-studies/)
