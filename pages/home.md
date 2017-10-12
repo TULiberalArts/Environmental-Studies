@@ -2,27 +2,31 @@
 title: Home
 permalink: /
 layout: home
-description: >-
-keywords: ''
 feature: true
 feature-title: Study the Environment
 feature-image: hero_ES_bg.png
 feature-body: >-
   The Environmental Studies program examines the nature, causes and consequences
-  of human interactions with the environment. Our curriculum is focused
-  around the themes   of globalization, sustainability, social justice and
-  geographic methods.
+  of human interactions with the environment. Our curriculum is focused around
+  the themes   of globalization, sustainability, social justice and geographic
+  methods.
 published: true
 ---
-We equip our students with the tools to understand and address the crucial environmental issues of our time, such as climate change, food access and natural resource consumption. Through interdisciplinary coursework that confers strong social science skills with technical training, our students are trained to analyze multi-faceted problems with a range of analytical tools and  skills, including the following:
+The Environmental Studies program examines the nature, causes and consequences of human interactions with the environment. Our curriculum is focused around the themes of globalization, sustainability, social justice and geographic methods. We equip our students with the tools to understand and address the crucial environmental issues of our time, such as climate change, food access and natural resource consumption. The Environmental Studies program is affiliated with the Department of Geography and Urban Studies — a department with a highly respected faculty invested in student success. Our faculty and administrative staff give students unmatched attention through mentorship, extracurricular and research opportunities. 
 
-   - A global approach 
-   - Spatial thinking 
-   - An interdisciplinary perspective 
-   - Understanding of the complexity of interactions between humans and the environment 
-   - Social science research methods, policy analysis, and technical skills 
-   - Written, oral and visual communication skills 
-   - Geographic Information Systems (GIS) and mapping software
+## Apply to Temple University
+Ready to apply? [Submit your application online](http://admissions.temple.edu/apply
+
+## Academic Offerings
+- [Major in Environmental Science](http://bulletin.temple.edu/undergraduate/liberal-arts/environmental-studies/ba-environmental-studies/)
+- [Minor in Environmental Science](http://bulletin.temple.edu/undergraduate/liberal-arts/environmental-studies/ba-environmental-studies/)
+- [Major in Geography and Urban Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/geography-urban-studies/ba-geography-urban-studies/)
+- [Minor in Geography and Urban Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/geography-urban-studies/minor-geography-urban-studies/)
+- [PhD in Geography and Urban Studies](http://bulletin.temple.edu/graduate/scd/cla/geography-urban-studies-phd/)
+- [MA in Geography and Urban Studies](http://bulletin.temple.edu/graduate/scd/cla/geography-urban-studies-ma/)
+- [Undergraduate Certificate in Geographic Information Systems](http://bulletin.temple.edu/undergraduate/liberal-arts/geography-urban-studies/certificate-geographic-information-systems/)
+- [Professional Science Master’s in Geographic Information Systems](http://bulletin.temple.edu/graduate/scd/cla/geographic-information-systems-psm/)
+- [Graduate Certificate in Geographic Information Systems](http://bulletin.temple.edu/graduate/scd/cla/geographic-information-systems-certificate/)
 
 <div class="row row-wide">
   <div class="col m12 l4">{% include cards/card2-image.html 
