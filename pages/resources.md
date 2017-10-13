@@ -4,6 +4,26 @@ permalink: /resources/
 layout: page
 published: true
 ---
+## Department of Geography and Urban Studies Scholarships
+**Carolyn Adams Award in Geography and Urban Studies**
+Funded by contributions from Temple alumni/ae, the Carolyn Adams Award recognizes the service of Dr. Carolyn Adams who returned to teaching in the Department of Geography and Urban Studies after serving seven years as Dean of Temple’s College of Liberal Arts. The cash award is awarded to a graduating senior with demonstrated scholarly excellence and a commitment to studying and addressing urban trends and challenges.
+
+**The Henry Michael Prize in Geography and Urban Studies**
+This award is awarded to a graduating senior majoring in geography and urban studies with excellence in scholastic achievement.
+
+**The Delaware Valley Geographical Association Prize**
+Awarded to an outstanding student in the program.
+
+**Benjamin H. Kohl Memorial Award**
+Established in honor of Ben Kohl, former professor and Undergraduate Chair, the award recognizes a Department of Geography and Urban Studies student who demonstrates outstanding service and scholastic achievement in promoting social justice.
+
+**The Patrick Stocking Memorial Prize for Cartography**
+The Patrick Stocking Memorial Prize for Cartography was established in 1987 in honor of the exceptional map-maker. It is one of the major academic prizes awarded to undergraduate students annually in the department. The prize consists of a book award and a cash award of $1000.00. It is a fitting memorial to Patrick for whom scholarship was so important, and it serves as a reminder of his love for maps and map-making.
+
+**Environmental Studies Award**
+The Environmental Studies Award is given to a graduating student who excels academically, completed outstanding projects and maintained involvement in extracurricular environmental activities.
+
+
 ## Student Organizations
 
 **Gamma Theta Upsilon**
