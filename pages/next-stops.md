@@ -5,21 +5,21 @@ layout: page
 published: true
 ---
 ## What Can I do with a degree in Environmental Science?
-Almost anything! Our graduates get competitive and meaningful jobs in environmental agencies, domestic and international nonprofits, community organizations, consulting firms and corporate environmental affairs departments. Many also go on to graduate programs in environmental studies, law, geography, planning and other fields. 
+Our students land competitive, meaningful jobs upon graduation in Philadelphia and beyond, working in business, government and non-profits sectors. The U.S.Department of Labor projects much faster than average job growth in environmentally related fields. With the rise of smart technology, the 21st century is marked
+by a rapid increase in geospatial information. As an environmental studies student at the Department of Geography and Urban Studies, you will learn cutting-edge technology that gives you a competitive edge in the job market. The geospatial technology industry alone is growing at an annual rate of almost [35 percent and trained technicians are in high demand](https://www.doleta.gov/brg/indprof/geospatial_profile.cfm). 
 
-Geography and Urban Studies and Environmental Studies graduates have job titles that include
+Recently, our students and alumni have landed coveted internship and full-time positions with the following
+employers
 
-- Environmental Analyst
-- Peace Corps Volunteer
-- Land Use Planner
-- City Planner
-- Nonprofit Administrator
-- Public Policy Director
-- Environmental Attorney
-- Sustainability Specialist
-- Environmental Engineer
-- Fish and Wildlife Biologist
-- Urban Agriculture Program Coordinator 
+– Environmental Protection Agency
+– Mayor’s Office of Sustainability
+– Delaware Valley Regional Planning Commission
+– Michael Baker International
+– National Park Service
+– AKRF, Inc
+– Pennsylvania Horticultural Society
+– Amec Foster Wheeler
+– Greenpeace
 
 ## Make Your Declaration
 The College of Liberal Arts has the largest selection of academic offerings at Temple University. Our students have the flexibility to explore all of their interests, from the humanities and social sciences to business and the media arts. The College of Liberal Arts prepares students to become innovators in all fields, across all industries. We are civic-minded, globally conscious creative thinkers, doers and risk-takers. Home to 28 departments and programs, we offer a solid liberal arts education at a premier urban, research university.
