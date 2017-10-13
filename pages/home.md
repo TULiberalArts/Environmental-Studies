@@ -13,7 +13,7 @@ feature-body: >-
 published: true
 ---
 ## Study the Environment and Make a Difference
-The Environmental Studies program examines the nature, causes and consequences of human interactions with the environment. Our curriculum is focused around the themes of globalization, sustainability, social justice and geographic methods. We equip our students with the tools to understand and address the crucial environmental issues of our time, such as climate change, food access and natural resource consumption. The Environmental Studies program is affiliated with the Department of Geography and Urban Studies — a department with a highly respected faculty invested in student success. Our faculty and administrative staff give students unmatched attention through mentorship, extracurricular and research opportunities. 
+The Environmental Studies program examines the nature, causes and consequences of human interactions with the environment. Our curriculum is focused around the themes of globalization, sustainability, social justice and geographic methods. We equip our students with the tools to understand and address the crucial environmental issues of our time, such as climate change, food access and natural resource consumption. The Environmental Studies program is affiliated with the Department of Geography and Urban Studies — a department with a highly respected faculty invested in student success. Our faculty and administrative staff give students unmatched attention through mentorship, extracurricular and research opportunities. We offer a BA in Environmental Studies, a minor and a certificate in Geographic Information Systems (GIS). 
 
 ## Apply to Temple University
 Ready to apply? [Submit your application online](http://admissions.temple.edu/apply)
