@@ -8,6 +8,19 @@ published: true
 Our students land competitive, meaningful jobs upon graduation in Philadelphia and beyond, working in business, government and non-profits sectors. The U.S.Department of Labor projects much faster than average job growth in environmentally related fields. With the rise of smart technology, the 21st century is marked
 by a rapid increase in geospatial information. As an environmental studies student at the Department of Geography and Urban Studies, you will learn cutting-edge technology that gives you a competitive edge in the job market. The geospatial technology industry alone is growing at an annual rate of almost [35 percent and trained technicians are in high demand](https://www.doleta.gov/brg/indprof/geospatial_profile.cfm). 
 
+From Peace Corps Volunteers and Fulbright Scholars, to urban agriculture and energy consultants, Environmental Studies majors find employment in fields that include
+
+- Environmental Activism and Conservation
+- Resource Management
+- State and Local Government
+- Non-Profits and NGOs
+- Geographic Information Systems (GIS)
+- Spatial Analysis
+- Education
+- Entrepreneurship
+- Urban Gardening
+- Research
+
 Recently, our students and alumni have landed coveted internship and full-time positions with the following
 employers
 
