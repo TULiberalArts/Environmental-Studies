@@ -1,6 +1,10 @@
 ---
 title: Undergraduate
 permalink: /undergraduate/
+description: >-
+  Major or minor in Environmental Studies at Temple University. We also offer an Undergraduate Certificate in GIS, a rapidly-growing field.  
+keywords: >-
+  GIS certificate, Minor in Environmental Studies, BA in Environmental Studies, Environmental Science Program
 layout: page
 published: true
 sidebar: true
@@ -10,23 +14,23 @@ sidebar-content: |
    309 Gladfelter Hall  
    [(215) 204-5482](tel:2152045482)  
    [mgilbert@temple.edu](mailto:mgilbert@temple.edu)  
-   
+
    ___
-   
+
    **Undergraduate Chair:**  
    Jeremy Mennis  
    328 Gladfelter Hall    
    [(215)204-4748](tel:2152044748)        
    [jmennis@temple.edu](mailto:jmennis@temple.edu)  
-   
+
    ___
-   
+
    **Administrator:**  
    Maggie Cogswell  
    1008A Gladfelter Hall   
    [(215) 204-9209](tel:2152049209)  
    [tuf70408@temple.edu](mailto:tuf70408@temple.edu)  
-   
+
    ___
 
    **Coordinator:**  
@@ -36,7 +40,7 @@ sidebar-content: |
    [julia.falcon@temple.edu](mailto:julia.falcon@temple.edu)
 ---
 ## Major in Environmental Studies
-If you major in environmental studies at Temple, you will gain the intellectual and methodological tools to understand and address the crucial environmental issues of our time and the impact on individuals, society and the planet. The BA in Environmental Studies introduces students to environmental processes, the geography of natural resources, geospatial technologies and qualitative and quantitative social science research methods. Required courses in our curriculum introduce students to environmental science in a broad but comprehensive manner. Upper-level electives are tailored to your personal academic interests in the discipline. 
+If you major in environmental studies at Temple, you will gain the intellectual and methodological tools to understand and address the crucial environmental issues of our time and the impact on individuals, society and the planet. The BA in Environmental Studies introduces students to environmental processes, the geography of natural resources, geospatial technologies and qualitative and quantitative social science research methods. Required courses in our curriculum introduce students to environmental science in a broad but comprehensive manner. Upper-level electives are tailored to your personal academic interests in the discipline.
 
 [Learn More aout Majoring in Environmental Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/environmental-studies/ba-environmental-studies/)
 
@@ -66,7 +70,7 @@ For more than 125 years, we have focused on providing a world-class education at
 [Temple Tuition Calculator](https://bursar.temple.edu/tuition-and-fees/tuition-rates)
 
 ## Financial Aid and Scholarships
-At Temple, we believe that students from all walks of life should have access to an outstanding college education. If you need help paying for your education, you aren’t alone. Most students receive some form of financial aid to fund their education. About 60% of first-year Temple students receive need-based financial aid, and the average first-year financial aid package is about $15,000. Eligible students receive financial assistance from federal, state, private and university sources. Explore your financial aid options and apply early to make your college education an affordable experience. 
+At Temple, we believe that students from all walks of life should have access to an outstanding college education. If you need help paying for your education, you aren’t alone. Most students receive some form of financial aid to fund their education. About 60% of first-year Temple students receive need-based financial aid, and the average first-year financial aid package is about $15,000. Eligible students receive financial assistance from federal, state, private and university sources. Explore your financial aid options and apply early to make your college education an affordable experience.
 
 [Student Financial Services](https://sfs.temple.edu/financial-aid-types)
 
