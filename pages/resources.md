@@ -1,6 +1,10 @@
 ---
 title: Resources
 permalink: /resources/
+description: >-
+  Get help with academic resources, student organizations and environmental studies scholarships at the Department of Geography and Urban Studies.
+keywords: >-
+  Department of Geography and Urban Studies, Environmental Studies, Environmental Studies scholarships, Environmental Science Program 
 layout: page
 published: true
 ---
