@@ -2,13 +2,15 @@
 title: Resources
 permalink: /resources/
 description: >-
-  Get help with academic resources, student organizations and environmental studies scholarships at the Department of Geography and Urban Studies.
+  We nominate outstanding students at the Department of Geography and Urban Studies for environmental studies scholarships.
 keywords: >-
-  Department of Geography and Urban Studies, Environmental Studies, Environmental Studies scholarships, Environmental Science Program 
+  Department of Geography and Urban Studies, Environmental Studies, Environmental Studies scholarships, Environmental Science Program
 layout: page
 published: true
 ---
-## Department of Geography and Urban Studies Scholarships
+## Environmental Studies Scholarships
+Awards and scholarships are presented annually to students from the Department of Geography and Urban Studies (including Environmental Studies majors) who exhibit academic excellence. In addition, scholarships take into account demonstrated financial need.
+
 **Carolyn Adams Award in Geography and Urban Studies**
 Funded by contributions from Temple alumni/ae, the Carolyn Adams Award recognizes the service of Dr. Carolyn Adams who returned to teaching in the Department of Geography and Urban Studies after serving seven years as Dean of Temple’s College of Liberal Arts. The cash award is awarded to a graduating senior with demonstrated scholarly excellence and a commitment to studying and addressing urban trends and challenges.
 
@@ -27,8 +29,7 @@ The Patrick Stocking Memorial Prize for Cartography was established in 1987 in h
 **Environmental Studies Award**
 The Environmental Studies Award is given to a graduating student who excels academically, completed outstanding projects and maintained involvement in extracurricular environmental activities.
 
-
-## Student Organizations
+## Student Organizations for Environmental Studies Students
 
 **Gamma Theta Upsilon**
 We nominate students for membership in the [National Honorary Society in Geography](http://gammathetaupsilon.org/) on the basis of GPA. Students, who are initiated annually, can submit articles to the GTU journal and apply for national scholarships.
@@ -36,7 +37,7 @@ We nominate students for membership in the [National Honorary Society in Geograp
 **Geography & Urban Studies/Environmental Studies Student Association**
 Not just for GUS/ES students, the [GUS/ES Undergraduate Student Association](https://sustainability.temple.edu/get-involved/students-get-involved-page/geography-urban-studies-environmental-studies-student) focuses on topics in Geography and Urban and Environmental Studies such as geographic information systems, urban agriculture, sustainability, and social justice through guest speakers and group outings.For more information, or to be added to the listserv, please contact [tuguses@gmail.com](mailto:tuguses@gmail.com).
 
-## Professional Organizations
+## Professional Organizations for Environmental Science
 
 **Association of American Geographers**
 Our MA and PhD programs are affiliated with the [Association of American Geographers](http://www.aag.org/) (AAG), a non-profit scientific and educational society aimed at advancing the understanding, study and importance of geography and related fields. The Annals of the Association of American Geographers and The _Professional Geographer_ are the association's flagship journals and the organization holds an annual meeting. In 2015, the organization awarded Temple University Press the [AAG Publication Award](https://news.temple.edu/news/2015-12-08/awards-temple-university-press), given in recognition of exceptional and outstanding contributions to the discipline by publishers.
