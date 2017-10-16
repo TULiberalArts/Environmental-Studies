@@ -10,7 +10,7 @@ feature: true
 feature-title: Study the Environment
 feature-image: hero_ES_bg.png
 feature-body: >-
-  Our students land competitive, meaningful jobs upon graduation in Philadelphia and beyond, working in business, government and non-profits sectors.
+  Our students land competitive, meaningful jobs upon graduation in Philadelphia and beyond, working in business, government and non-profits sectors. 
 published: true
 ---
 ## Study the Environment and Make a Difference
