@@ -1,14 +1,17 @@
 ---
 title: Next Stops
 permalink: /next-stops/
+description: >-
+  Job titles for Environmental Studies majors include Climatologist, Ecologist, Entomologist, Geographer and City Planner. 
+keywords: >-
+  Jobs for Environmental Studies majors, Environmental Studies jobs, Careers in Environmental Science, Environmental Studies careers list
 layout: page
 published: true
 ---
 ## What Can I do with a degree in Environmental Science?
-Our students land competitive, meaningful jobs upon graduation in Philadelphia and beyond, working in business, government and non-profits sectors. The U.S.Department of Labor projects much faster than average job growth in environmentally related fields. With the rise of smart technology, the 21st century is marked
-by a rapid increase in geospatial information. As an environmental studies student at the Department of Geography and Urban Studies, you will learn cutting-edge technology that gives you a competitive edge in the job market. The geospatial technology industry alone is growing at an annual rate of almost [35 percent and trained technicians are in high demand](https://www.doleta.gov/brg/indprof/geospatial_profile.cfm). 
+Graduates in Environmental Studies from Temple University land competitive, meaningful jobs upon graduation in Philadelphia and beyond, working in business, government and non-profits. The U.S. Department of Labor projects faster than average growth for careers in environmental science. With the rise of smart technology, the 21st century is marked by a rapid increase in geospatial information. As an environmental studies student at the Department of Geography and Urban Studies, you will learn cutting-edge technology that gives you a competitive edge in the job market. The geospatial technology industry alone is growing at an annual rate of almost [35 percent and trained technicians are in high demand](https://www.doleta.gov/brg/indprof/geospatial_profile.cfm).
 
-From Peace Corps Volunteers and Fulbright Scholars, to urban agriculture and energy consultants, Environmental Studies majors find employment in fields that include
+Jobs for Environmental Studies majors include
 
 - Environmental Activism and Conservation
 - Resource Management
@@ -21,8 +24,7 @@ From Peace Corps Volunteers and Fulbright Scholars, to urban agriculture and ene
 - Urban Gardening
 - Research
 
-Recently, our students and alumni have landed coveted internship and full-time positions with the following
-employers
+Environmental Studies majors from the Department of Geography and Urban Studies land coveted internship and full-time positions with major organizations that include
 
 – Environmental Protection Agency
 – Mayor’s Office of Sustainability
@@ -45,7 +47,7 @@ To know what Temple is really about, you have to experience it firsthand. Our Ma
 [Arrange a Visit](http://admissions.temple.edu/visit)
 
 ## Thinking of Transferring?
-Almost half of incoming Temple students transfer from other colleges and universities. If you’ve taken 15 or more college-level credits after high school graduation, you can apply for admission as a transfer student. If you’re thinking about transferring, consider attending a [Transfer Tuesday](http://admissions.temple.edu/visit/transfer-tuesday) general information session. 
+Almost half of incoming Temple students transfer from other colleges and universities. If you’ve taken 15 or more college-level credits after high school graduation, you can apply for admission as a transfer student. If you’re thinking about transferring, consider attending a [Transfer Tuesday](http://admissions.temple.edu/visit/transfer-tuesday) general information session.
 
 [Learn More about Transferring to Temple](temple.edu/transfer](http://temple.edu/transfer)
 
