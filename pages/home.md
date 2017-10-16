@@ -1,15 +1,16 @@
 ---
 title: Home
 permalink: /
+description: >-
+  Earn your degree in Environmental Studies from Temple University. We are affiliated with the Department of Geography and Urban Studies.
+keywords: >-
+  Department of Geography and Urban Studies, Environmental Studies, Environmental Studies Degree, Environmental Science Program
 layout: home
 feature: true
 feature-title: Study the Environment
 feature-image: hero_ES_bg.png
 feature-body: >-
-  The Environmental Studies program examines the nature, causes and consequences
-  of human interactions with the environment. Our curriculum is focused around
-  the themes   of globalization, sustainability, social justice and geographic
-  methods.
+  Our students land competitive, meaningful jobs upon graduation in Philadelphia and beyond, working in business, government and non-     profits sectors.
 published: true
 ---
 ## Study the Environment and Make a Difference
