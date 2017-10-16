@@ -2,7 +2,7 @@
 title: Next Stops
 permalink: /next-stops/
 description: >-
-  Job titles for Environmental Studies majors include Climatologist, Ecologist, Entomologist, Geographer and City Planner. 
+  Job titles for Environmental Studies majors include Climatologist, Ecologist, Entomologist, Geographer and City Planner.
 keywords: >-
   Jobs for Environmental Studies majors, Environmental Studies jobs, Careers in Environmental Science, Environmental Studies careers list
 layout: page
@@ -26,15 +26,15 @@ Jobs for Environmental Studies majors include
 
 Environmental Studies majors from the Department of Geography and Urban Studies land coveted internship and full-time positions with major organizations that include
 
-– Environmental Protection Agency
-– Mayor’s Office of Sustainability
-– Delaware Valley Regional Planning Commission
-– Michael Baker International
-– National Park Service
-– AKRF, Inc
-– Pennsylvania Horticultural Society
-– Amec Foster Wheeler
-– Greenpeace
+- Environmental Protection Agency
+- Mayor’s Office of Sustainability
+- Delaware Valley Regional Planning Commission
+- Michael Baker International
+- National Park Service
+- AKRF, Inc
+- Pennsylvania Horticultural Society
+- Amec Foster Wheeler
+- Greenpeace
 
 ## Make Your Declaration
 The College of Liberal Arts has the largest selection of academic offerings at Temple University. Our students have the flexibility to explore all of their interests, from the humanities and social sciences to business and the media arts. The College of Liberal Arts prepares students to become innovators in all fields, across all industries. We are civic-minded, globally conscious creative thinkers, doers and risk-takers. Home to 28 departments and programs, we offer a solid liberal arts education at a premier urban, research university.
