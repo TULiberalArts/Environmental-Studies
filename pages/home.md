@@ -10,7 +10,7 @@ feature: true
 feature-title: Study the Environment
 feature-image: hero_ES_bg.png
 feature-body: >-
-  Our students land competitive, meaningful jobs upon graduation in Philadelphia and beyond, working in business, government and non-     profits sectors.
+  Our students land competitive, meaningful jobs upon graduation in Philadelphia and beyond, working in business, government and non-profits sectors.
 published: true
 ---
 ## Study the Environment and Make a Difference
@@ -35,27 +35,27 @@ Ready to apply? [Submit your application online](http://admissions.temple.edu/ap
 - [Graduate Certificate in Geographic Information Systems](http://bulletin.temple.edu/graduate/scd/cla/geographic-information-systems-certificate/)
 
 <div class="row row-wide">
-  <div class="col m12 l4">{% include cards/card2-image.html 
-    title="Green Council" 
-    content="The Green Council is an eco-friendly coalition of student organizations that meets monthly to discuss sustainability initiatives on campus." 
-    image="" 
-    button-link="https://sustainability.temple.edu/studentorgs" 
+  <div class="col m12 l4">{% include cards/card2-image.html
+    title="Green Council"
+    content="The Green Council is an eco-friendly coalition of student organizations that meets monthly to discuss sustainability initiatives on campus."
+    image=""
+    button-link="https://sustainability.temple.edu/studentorgs"
     button-text="Learn More" %}
   </div>
   <div class="row row-wide">
-    <div class="col m12 l4">{% include cards/card2-image.html 
-      title="Sustainability Scholarships" 
-      content="Our faculty and administrative staff give students unmatched attention through mentorship, extracurricular and research opportunities." 
-      image="Check out scholarships, grants, fellowships and competitions in the field of environmental science and sustainability." 
-      button-link="/environmental-studies/faculty" 
+    <div class="col m12 l4">{% include cards/card2-image.html
+      title="Sustainability Scholarships"
+      content="Our faculty and administrative staff give students unmatched attention through mentorship, extracurricular and research opportunities."
+      image="Check out scholarships, grants, fellowships and competitions in the field of environmental science and sustainability."
+      button-link="/environmental-studies/faculty"
       button-text="Learn More" %}
     </div>
     <div class="row row-wide">
-      <div class="col m12 l4">{% include cards/card2-image.html 
-        title="Save the Planet and Advance Your Career" 
-        content="Temple students can study abroad in almost any country through our programs, exchanges and partnerships with organizations around the world. Where will Temple take you?" 
-        image="" 
-        button-link="https://studyabroad.temple.edu/" 
+      <div class="col m12 l4">{% include cards/card2-image.html
+        title="Save the Planet and Advance Your Career"
+        content="Temple students can study abroad in almost any country through our programs, exchanges and partnerships with organizations around the world. Where will Temple take you?"
+        image=""
+        button-link="https://studyabroad.temple.edu/"
         button-text="Learn More" %}
       </div>
 </div>
