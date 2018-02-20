@@ -8,7 +8,7 @@ keywords: >-
 layout: page
 published: true
 ---
-## Environmental Studies Aeards and Scholarships
+## Environmental Studies Awards and Scholarships
 Awards and scholarships are presented annually to students from the Department of Geography and Urban Studies (including Environmental Studies majors) who exhibit academic excellence. In addition, scholarships take into account demonstrated financial need.
 
 **Environmental Studies Award**
