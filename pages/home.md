@@ -13,12 +13,20 @@ feature-body: >-
   Our students land competitive, meaningful jobs upon graduation in Philadelphia and beyond, working in business, government and non-profits sectors. 
 published: true
 ---
-## Study the Environment and Make a Difference
-The Environmental Studies program examines the nature, causes and consequences of human interactions with the environment. We equip our students with the tools to understand and address the crucial environmental issues of our time, such as climate change, food access and natural resource consumption. The Environmental Studies program is affiliated with the Department of Geography and Urban Studies — a department with a highly respected faculty invested in student success. Our faculty and administrative staff give students unmatched attention through mentorship, extracurricular and research opportunities. We offer a BA in Environmental Studies, a minor and a certificate in Geographic Information Systems (GIS). Combining strong social science skills with technical training, the Department of Geography and Urban Studies works to understand and address issues relating to
+## Globalization. Social Justice. Sustainability. Geographic Methods.
+Environmental Studies takes an interdisciplinary approach to the examination of nature and the causes and consequences of human interactions with the environment. Are natural disasters truly 'natural'? Why environmental benefits and burdens inequitably distributed across cities and regions? How do global environmental processes impact the health and wellbeing of populations in different places? Our programs focus on teaching and research for social change using a range of geographic methods. 
 
-- **Globalization:** Capital and labor flows, welfare state restructuring, identity, culture and concepts of citizenship.
-- **Social Justice:** Increasing inequalities in terms of economics, gender and inequalities.
-- **Sustainability:** Urban ecology, environmental justice, land use and sprawled development patterns.
+Our department offers a B.A., in Environmental Studies and M.A. and PhD in Geography and Urban Studies. These programs combine interdisciplinary coursework, strong research skills and technical training to prepare our students to address pressing issues in globalization, sustainability and social justice.
+
+We equip our students with the tools to understand and address the crucial environmental issues of our time, such as climate change, food access and natural resource consumption. Through interdisciplinary coursework that confers strong social science skills with technical training, our students are trained to analyze multi-faceted problems with a range of analytical tools and skills including the following:
+
+- A global approach
+- Spatial thinking
+- An interdisciplinary perspective
+- Understanding of the complexity of interactions between humans and the environment
+- Social science research methods, policy analysis, and technical skills
+- Written, oral and visual communication skills
+- Geographic Information Systems (GIS) and mapping software
 
 ## Academic Offerings
 - [Major in Environmental Science](http://bulletin.temple.edu/undergraduate/liberal-arts/environmental-studies/ba-environmental-studies/)
