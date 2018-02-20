@@ -14,7 +14,7 @@ Awards and scholarships are presented annually to students from the Department o
 **Environmental Studies Award**
 The Environmental Studies Award is given to a graduating student who excels academically, completed outstanding projects and maintained involvement in extracurricular environmental activities.
 
-For a complete list of departmental and college level awards and scholarships you may be eligible for, please visit the [College of liberal Arts Awards and Scholarships](https://liberalarts.temple.edu/about-us/resources/awards-and-scholarships?field_awards_department_nid=4591&field_awards_academics_class_value=All) page. 
+For a complete list of departmental and college level awards and scholarships you may be eligible for, please visit the [College of Liberal Arts Awards and Scholarships](https://liberalarts.temple.edu/about-us/resources/awards-and-scholarships?field_awards_department_nid=4591&field_awards_academics_class_value=All) page. 
 
 ## Student Organizations for Environmental Studies Students
 **Gamma Theta Upsilon**
