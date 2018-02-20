@@ -76,10 +76,3 @@ At Temple, we believe that students from all walks of life should have access to
 
 ## Undergraduate Admissions
 Ready to apply? [Submit your application online](http://admissions.temple.edu/apply).
-
-## Curriculum and Academic Requirements
-- [Major in Environmental Science](http://bulletin.temple.edu/undergraduate/liberal-arts/environmental-studies/ba-environmental-studies/)
-- [Minor in Environmental Science](http://bulletin.temple.edu/undergraduate/liberal-arts/environmental-studies/ba-environmental-studies/)
-- [Major in Geography and Urban Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/geography-urban-studies/ba-geography-urban-studies/)
-- [Minor in Geography and Urban Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/geography-urban-studies/minor-geography-urban-studies/)
-- [Undergraduate Certificate in Geographic Information Systems](http://bulletin.temple.edu/undergraduate/liberal-arts/geography-urban-studies/certificate-geographic-information-systems/)
