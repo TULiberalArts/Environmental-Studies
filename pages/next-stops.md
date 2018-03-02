@@ -8,7 +8,7 @@ keywords: >-
 layout: page
 published: true
 ---
-## What Can I do with a degree in Environmental Science?
+## What Can I do with a degree in Environmental Studies?
 Graduates in Environmental Studies from Temple University land competitive, meaningful jobs upon graduation in Philadelphia and beyond, working in business, government and non-profits. The U.S. Department of Labor projects faster than average growth for careers in environmental science. With the rise of smart technology, the 21st century is marked by a rapid increase in geospatial information. As an environmental studies student at the Department of Geography and Urban Studies, you will learn cutting-edge technology that gives you a competitive edge in the job market. The geospatial technology industry alone is growing at an annual rate of almost [35 percent and trained technicians are in high demand](https://www.doleta.gov/brg/indprof/geospatial_profile.cfm).
 
 Jobs for Environmental Studies majors include
