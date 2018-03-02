@@ -33,7 +33,7 @@ sidebar-content: |
 
    ___
 
-   **Coordinator:**  
+   **Student Services Coordinator:**  
    Julia Falcon  
    338A Gladfelter Hall    
    [(215) 204-3386](tel:2152043386)   
