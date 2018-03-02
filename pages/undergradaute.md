@@ -40,17 +40,23 @@ sidebar-content: |
    [julia.falcon@temple.edu](mailto:julia.falcon@temple.edu)
 ---
 ## Major in Environmental Studies
-If you major in environmental studies at Temple, you will gain the intellectual and methodological tools to understand and address the crucial environmental issues of our time and the impact on individuals, society and the planet. The BA in Environmental Studies introduces students to environmental processes, the geography of natural resources, geospatial technologies and qualitative and quantitative social science research methods. Required courses in our curriculum introduce students to environmental science in a broad but comprehensive manner. Upper-level electives are tailored to your personal academic interests in the discipline.
+Environmental Studies is an interdisciplinary major offered by the Department of Geography and Urban Studies. Environmental Studies examines the nature, causes and consequences of human interactions with the environment. Students in Environmental Studies seek to understand and address the crucial environmental issues of our time, such as climate change, environmental justice, and resource management. Our students are introduced to physical geography, an understanding of the economic system, and social science methods (GIS, spatial statistics, remote sensing, environmental impact assessment, quantitative and qualitative research methods) and are given flexibility to choose electives that fit the students’ own academic interests.
 
-[Learn More aout Majoring in Environmental Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/environmental-studies/ba-environmental-studies/)
+This major prepares students for environmentally-focused careers as well as graduate programs in environmental studies, law, geography, resource management, planning and other fields. This certificate is open to students in all majors across all colleges and schools at Temple University.
+
+Environment Studies student are introduced to:
+- Current environmental issues such as health and justice, geospatial techniques and environmental policy
+- Social science approaches to examining nature-society relations
+
+[Learn More about Majoiring in Environmental Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/environmental-studies/ba-environmental-studies/)
 
 ## Minor in Environmental Studies
-Regardless of your major, a minor in geography and urban studies helps you develop skills of analysis, team work, computing and critical thinking. The 18-credit minor requires one gateway course and five electives. A environmental studies minor helps you stand out when you apply for jobs or graduate school, because it shows that you have a well-rounded education.
+A minor in environmental studies is available to any student enrolled at Temple University. Many students choose to add an Environmental Studies minor as a complement to their primary major. This is an 18-credit minor, requiring students to take one gateway course and five electives.
 
-[Learn More about Minoring in Philosophy](http://bulletin.temple.edu/undergraduate/liberal-arts/environmental-studies/minor-environmental-studies/)
+[Learn More about Minoring in Environmental Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/environmental-studies/minor-environmental-studies/)
 
 ## Undergraduate Certificate in GIS
-GIS is anything that combines data and maps. Because it is so widely applicable, GIS is a linchpin of the information age. Geospatial technology is considered a high-growth industry by the U.S. Department of Labor and employers seek candidates trained in geospatial technologies. A GIS certificate will give you the skills  to take on advanced research positions in technology-based companies, governmental agencies and non-profit organizations. The GIS certificate is open to students across all colleges and schools at Temple University.
+GIS is powerful analytical software that combines data with maps. It allows users to query, analyze and visualize spatial data, asking any “where” questions, such as “where are we seeing outbreaks of flu,” “where will this utility have the greatest impact” or “where should we open our storefront?”  Because it is so widely applicable, geographic information has become one of the linchpins of the Information Age. Employers across industries are seeking candidates trained in geospatial technologies. Because its uses are so pervasive, geospatial technology is considered a high-growth industry by the U.S. Department of Labor, growing at an annual rate of almost 35 percent, with faster than average job growth expected over the next 10 years.
 
 [Learn More About the Certificate in Geographic Information Systems](http://bulletin.temple.edu/undergraduate/liberal-arts/geography-urban-studies/certificate-geographic-information-systems/)
 
@@ -73,6 +79,3 @@ For more than 125 years, we have focused on providing a world-class education at
 At Temple, we believe that students from all walks of life should have access to an outstanding college education. If you need help paying for your education, you aren’t alone. Most students receive some form of financial aid to fund their education. About 60% of first-year Temple students receive need-based financial aid, and the average first-year financial aid package is about $15,000. Eligible students receive financial assistance from federal, state, private and university sources. Explore your financial aid options and apply early to make your college education an affordable experience.
 
 [Student Financial Services](https://sfs.temple.edu/financial-aid-types)
-
-## Undergraduate Admissions
-Ready to apply? [Submit your application online](http://admissions.temple.edu/apply).
