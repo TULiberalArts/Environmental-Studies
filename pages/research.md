@@ -57,7 +57,7 @@ This project looks at the social geographies of transportation during resistance
 We are interested in studying the diverse processes that constitute globalization and their impacts on urban conditions and people’s daily lives in cities in both US and international contexts. Our interest is in the urban and regional dimensions of these changes: in capital flows, labor markets, labor flows, immigration and welfare state restructuring; identity, culture, and concepts of citizenship; and social and cultural processes in domestic and international settings.
 
 ### Faculty
-Sanjoy Chakravorty](https://liberalarts.temple.edu/academics/faculty/chakravorty-sanjoy), [Roman Cybriwsky](https://liberalarts.temple.edu/academics/faculty/cybriwsky-roman), [Melissa Gilbert](https://liberalarts.temple.edu/academics/faculty/r-gilbert-melissa), [Rob Mason](https://liberalarts.temple.edu/academics/faculty/mason-robert), [Hamil Pearsall](https://liberalarts.temple.edu/academics/faculty/pearsall-hamil)
+[Sanjoy Chakravorty](https://liberalarts.temple.edu/academics/faculty/chakravorty-sanjoy), [Roman Cybriwsky](https://liberalarts.temple.edu/academics/faculty/cybriwsky-roman), [Melissa Gilbert](https://liberalarts.temple.edu/academics/faculty/r-gilbert-melissa), [Rob Mason](https://liberalarts.temple.edu/academics/faculty/mason-robert), [Hamil Pearsall](https://liberalarts.temple.edu/academics/faculty/pearsall-hamil)
 
 ### Research Projects
 **Persistence of Inequality and the Distribution of Income and Industry (Sanjoy Chakravorty)**
