@@ -9,7 +9,7 @@ layout: page
 published: true
 ---
 ## Study Abroad
-We encourage environmental studiesour students to study abroad during their undergraduate careerfor one semester, which can be a critical part of undergraduate education either through a Temple or another accredited university program. Study abroad is the fastest way to learn a second (or third) language and it can open the door to future international work.We work closely with students to help identify study abroad courses that keep them on track for graduation.
+We encourage our students to study abroad during their undergraduate careerfor one semester, which can be a critical part of undergraduate education either through a Temple or another accredited university program. Study abroad is the fastest way to learn a second (or third) language and it can open the door to future international work.We work closely with students to help identify study abroad courses that keep them on track for graduation.
 
 [Learn More about our Study Abroad Programs]()
 
