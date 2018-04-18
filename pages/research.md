@@ -163,8 +163,8 @@ If you are interested in learning more about our lab research and the services w
 - Mapping hazards and environmental stressors
 
 **Funding projects**
-There are a number of ways that projects can be funded:
 
+There are a number of ways that projects can be funded:
 - Collaborator pays Temple University based on an hourly rate using funding based on an Memorandum of Agreement (MOA)
 - Collaborator and Temple University apply for grants together.
 - Collaborator applies for grants and sub-contracts to Temple University.
