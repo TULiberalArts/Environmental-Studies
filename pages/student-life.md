@@ -3,8 +3,7 @@ title: Student Life
 permalink: /student-life/
 description: >-
   We nominate outstanding students at the Department of Geography and Urban Studies for environmental studies scholarships.
-keywords: >-
-  Department of Geography and Urban Studies, Environmental Studies, Environmental Studies scholarships, Environmental Science Program
+keywords: 'Department of Geography and Urban Studies, student organizations, Environmental Studies scholarships, Environmental Studies awards, Gamma Theta Upsilon'
 layout: page
 published: true
 ---
