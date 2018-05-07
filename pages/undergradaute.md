@@ -3,8 +3,7 @@ title: Undergraduate
 permalink: /undergraduate/
 description: >-
   Major or minor in Environmental Studies at Temple University. We also offer an Undergraduate Certificate in GIS, a rapidly-growing field.  
-keywords: >-
-  GIS certificate, Minor in Environmental Studies, BA in Environmental Studies, Environmental Science Program
+keywords: 'GIS certificate, Minor in Environmental Studies, BA in Environmental Studies, Environmental Studies Program, tuition, advising'
 layout: page
 published: true
 sidebar: true
