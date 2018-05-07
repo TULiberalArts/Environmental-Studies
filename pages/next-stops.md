@@ -3,8 +3,7 @@ title: Next Stops
 permalink: /next-stops/
 description: >-
   Job titles for Environmental Studies majors include Climatologist, Ecologist, Entomologist, Geographer and City Planner.
-keywords: >-
-  Jobs for Environmental Studies majors, Environmental Studies jobs, Careers in Environmental Science, Environmental Studies careers list
+keywords: 'Environmental Studies majors, visit, apply, transfer, Environmental Studies careers'
 layout: page
 published: true
 ---
