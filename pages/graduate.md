@@ -2,9 +2,7 @@
 title: Graduate
 permalink: /graduate/
 description: >-
-keywords: >-
-  PhD in Geography and Urban Studies, Environmental Studies, PSM in GIS, MA in Geography and Urban Studies,
-  Graduate Programs in Geography and Urban Studies'
+keywords: 'PhD in Geography and Urban Studies, Environmental Studies, PSM in GIS, MA in Geography and Urban Studies, Graduate Programs in Geography and Urban Studies'
 layout: page
 published: true
 sidebar: true
@@ -39,7 +37,7 @@ sidebar-content: |
    [julia.falcon@temple.edu](mailto:julia.falcon@temple.edu)
 ---
 ## Programs of Study
-Our gradutae programs in Geography and Urban Studies focus on the themes of globalization, sustainability, social justice and geographic methiods including:
+Our graduate programs in Geography and Urban Studies focus on the themes of globalization, sustainability, social justice and geographic methiods including:
 - GIS
 - Remote Sensing
 - Cartography
