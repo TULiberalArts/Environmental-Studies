@@ -3,8 +3,7 @@ title: Faculty
 permalink: /faculty/
 description: >-
   Environmental Studies faculty at Temple are experts in urban studies and planning, GIS, sustainability, development economics and more.
-keywords: >-
-  Department of Geography and Urban Studies faculty, Environmental Studies faculty, Environmental Studies program
+keywords: 'Department of Geography and Urban Studies faculty, Environmental Studies faculty, Environmental Studies program'
 layout: faculty2
 published: true
 ---
