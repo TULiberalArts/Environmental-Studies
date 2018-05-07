@@ -2,7 +2,7 @@
 title: Research
 permalink: /research/
 layout: page
-keywords: ''
+keywords: 'research projects, research faculty, geography and urban studies, environmental studies, geographic information systems'
 description: >- 
 published: true
 ---
