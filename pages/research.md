@@ -6,6 +6,8 @@ keywords: 'research projects, research faculty, geography and urban studies, env
 description: >- 
 published: true
 ---
+The College of Liberal Arts’ Environmental Studies program is serious about finding ways to improve the planet through [research projects](#research-projects) with focus areas like [social justice](#social-justice), [globalization](#globalization), [sustainability](#sustainability) and [geographic methods](#geographic-methods). Meanwhile, the [Spatial Analytics Lab](#spatial-analytics-lab-salt) at Temple University is busy supporting research and education initiatives in the geographical information studies. 
+
 ## Research Projects
 Faculty research projects focus broadly on the interconnections among processes of globalization, the implications for sustainability, and the impact on equity and social justice. These research emphases incorporate a strong analytical foundation of both quantitative and qualitative geographic methods, as well as urban policy.
 
@@ -127,13 +129,11 @@ If you are interested in learning more about our lab research and the services w
 ### Our Services
 
 **Consulting**
-
 - Grant writing (integrating geospatial analysis into objectives and methods)
 - Project-based research consulting
 - GIS project planning and management
 
 **Data Management, Processing and Mapping**
-
 - Geocoding addresses
 - Geodatabase design
 - Geographic data acquisition, conversion/development
@@ -144,7 +144,6 @@ If you are interested in learning more about our lab research and the services w
 - Census data processing
 
 **Analysis**
-
 - Spatial Sampling
 - Spatial modeling
 - Spatial analysis
@@ -153,7 +152,6 @@ If you are interested in learning more about our lab research and the services w
 - Developing area-based measures (e.g., SES, walkability, access to healthy foods)
 
 **Geospatial health analysis**
-
 - Disease mapping
 - Mapping health information
 - Spatial clustering of health events
@@ -163,7 +161,6 @@ If you are interested in learning more about our lab research and the services w
 - Mapping hazards and environmental stressors
 
 **Funding projects**
-
 There are a number of ways that projects can be funded:
 - Collaborator pays Temple University based on an hourly rate using funding based on an Memorandum of Agreement (MOA)
 - Collaborator and Temple University apply for grants together.
