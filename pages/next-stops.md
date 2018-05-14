@@ -7,6 +7,8 @@ keywords: 'Environmental Studies majors, visit, apply, transfer, Environmental S
 layout: page
 published: true
 ---
+You care deeply about the health of the planet, enough to pursue an environmental studies degree. But what comes next? Find out what [you can do with a degree in environmental studies](#what-can-I-do-with-a-degree-in-environmental-studies?) and [make your declaration](#make-your-declaration) at the College of Liberal Arts! Need to learn more? Come [visit us](#visit-us) today, review the [application deadlines](#deadlines), consider your [transfer](#thinking-of-transferring) options and [apply](#apply)!
+
 ## What Can I do with a degree in Environmental Studies?
 Graduates in Environmental Studies from Temple University land competitive, meaningful jobs upon graduation in Philadelphia and beyond, working in business, government and non-profits. The U.S. Department of Labor projects faster than average growth for careers in environmental science. With the rise of smart technology, the 21st century is marked by a rapid increase in geospatial information. As an environmental studies student at the Department of Geography and Urban Studies, you will learn cutting-edge technology that gives you a competitive edge in the job market. The geospatial technology industry alone is growing at an annual rate of almost [35 percent and trained technicians are in high demand](https://www.doleta.gov/brg/indprof/geospatial_profile.cfm).
 
