@@ -38,6 +38,8 @@ sidebar-content: |
    [(215) 204-3386](tel:2152043386)   
    [julia.falcon@temple.edu](mailto:julia.falcon@temple.edu)
 ---
+Ready to go green with the Cherry and White? At the College of Liberal Arts, you can earn an [environmental studies degree](#major-in-environmental-studies) or [certificate](#undergraduate-certificate-in-gis). You can even [minor](#minor-in-environmental-studies) in environmental studies. Not sure what path is right for you? Talk to [academic advising and professional development](#academic-advising-and-professional-development) to make sure you [fly in four](#fly-in-four) and build toward your future. Need to learn more? Take a look at our [tuition and fees](#tuition-and-fees), your [financial aid and scholarship](#financial-aid-and-scholarships) options, and [additional resources](#additional-undergraduate-resources).
+
 ## Major in Environmental Studies
 Environmental Studies is an interdisciplinary major offered by the Department of Geography and Urban Studies. Environmental Studies examines the nature, causes and consequences of human interactions with the environment. Students in Environmental Studies seek to understand and address the crucial environmental issues of our time, such as climate change, environmental justice, and resource management. Our students are introduced to physical geography, an understanding of the economic system, and social science methods (GIS, spatial statistics, remote sensing, environmental impact assessment, quantitative and qualitative research methods) and are given flexibility to choose electives that fit the students’ own academic interests.
 
