@@ -40,26 +40,26 @@ We equip our students with the tools to understand and address the crucial envir
 
 <div class="row row-wide">
   <div class="col m12 l4">{% include cards/card2-image.html
-    title="Green Council"
-    content="The Green Council is an eco-friendly coalition of student organizations that meets monthly to discuss sustainability initiatives on campus."
+    title="Small Department. Big Opportunities."
+    content="The environmental studies program is affiliated with the Department of Geography and Urban Studies — a department highly invested in student success."
     image=""
-    button-link="https://sustainability.temple.edu/studentorgs"
+    button-link="https://develop.cla.temple.edu/environmental-studies/undergraduate/"
     button-text="Learn More" %}
   </div>
   <div class="row row-wide">
     <div class="col m12 l4">{% include cards/card2-image.html
-      title="Sustainability Scholarships"
+      title="Faculty and Staff Support"
       content="Our faculty and administrative staff give students unmatched attention through mentorship, extracurricular and research opportunities."
-      image="Check out scholarships, grants, fellowships and competitions in the field of environmental science and sustainability."
-      button-link="/environmental-studies/faculty"
+      image=""
+      button-link="https://develop.cla.temple.edu/environmental-studies/faculty/"
       button-text="Learn More" %}
     </div>
     <div class="row row-wide">
       <div class="col m12 l4">{% include cards/card2-image.html
-        title="Save the Planet and Advance Your Career"
-        content="Temple students can study abroad in almost any country through our programs, exchanges and partnerships with organizations around the world. Where will Temple take you?"
+        title="Invest in Your Future"
+        content="Our students land competitive, meaningful jobs upon graduation in Philadelphia and beyond, working in business, government and non-profits sectors. The U.S. Department of Labor projects much faster than average job growth in environmentally related fields."
         image=""
-        button-link="https://studyabroad.temple.edu/"
+        button-link="https://develop.cla.temple.edu/environmental-studies/next-stops/"
         button-text="Learn More" %}
       </div>
 </div>
