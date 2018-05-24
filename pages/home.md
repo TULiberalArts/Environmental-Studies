@@ -4,16 +4,16 @@ permalink: /
 description: >-
   Earn your degree in Environmental Studies from Temple University. We are affiliated with the Department of Geography and Urban Studies.
 keywords: 'Department of Geography and Urban Studies, Environmental Studies, academic offerings, Environmental Studies Program'
-layout: home
+layout: tla_home
 feature: true
 feature-title: Study the Environment
 feature-image: hero_ES_bg.png
 feature-body: >-
-  Our students land competitive, meaningful jobs upon graduation in Philadelphia and beyond, working in business, government and non-profits sectors. 
+  Our students land competitive, meaningful jobs upon graduation in Philadelphia and beyond, working in business, government and non-profits sectors.
 published: true
 ---
 ## Globalization. Social Justice. Sustainability. Geographic Methods.
-Environmental Studies takes an interdisciplinary approach to the examination of nature and the causes and consequences of human interactions with the environment. Are natural disasters truly 'natural'? Why environmental benefits and burdens inequitably distributed across cities and regions? How do global environmental processes impact the health and wellbeing of populations in different places? Our programs focus on teaching and research for social change using a range of geographic methods. 
+Environmental Studies takes an interdisciplinary approach to the examination of nature and the causes and consequences of human interactions with the environment. Are natural disasters truly 'natural'? Why environmental benefits and burdens inequitably distributed across cities and regions? How do global environmental processes impact the health and wellbeing of populations in different places? Our programs focus on teaching and research for social change using a range of geographic methods.
 
 Our department offers a B.A., in Environmental Studies and M.A. and PhD in Geography and Urban Studies. These programs combine interdisciplinary coursework, strong research skills and technical training to prepare our students to address pressing issues in globalization, sustainability and social justice.
 

@@ -4,7 +4,7 @@ permalink: /student-life/
 description: >-
   We nominate outstanding students at the Department of Geography and Urban Studies for environmental studies scholarships.
 keywords: 'Department of Geography and Urban Studies, student organizations, Environmental Studies scholarships, Environmental Studies awards, Gamma Theta Upsilon'
-layout: page
+layout: tla_page
 published: true
 ---
 Earning your environmental studies degree is about more than what you learn in the classroom. Considering [studying abroad](#study-abroad), applying for [awards or scholarships](#environmental-studies-awards-and-scholarships), join an [undergraduate student organization](#student-organizations-for-environmental-studies-students) or our [graduate professional organization](#graduate-professional-organizations-for-environmental-studies).
@@ -17,7 +17,7 @@ We encourage our students to study abroad during their undergraduate careerfor o
 ## Environmental Studies Awards and Scholarships
 Awards and scholarships are presented annually to students from the Department of Geography and Urban Studies (including Environmental Studies majors) who exhibit academic excellence. In addition, scholarships take into account demonstrated financial need.
 
-For a complete list of departmental and college level awards and scholarships you may be eligible for, please visit the [College of Liberal Arts Awards and Scholarships](https://liberalarts.temple.edu/about-us/resources/awards-and-scholarships?field_awards_department_nid=4591&field_awards_academics_class_value=All) page. 
+For a complete list of departmental and college level awards and scholarships you may be eligible for, please visit the [College of Liberal Arts Awards and Scholarships](https://liberalarts.temple.edu/about-us/resources/awards-and-scholarships?field_awards_department_nid=4591&field_awards_academics_class_value=All) page.
 
 ## Student Organizations for Environmental Studies Students
 **Gamma Theta Upsilon**

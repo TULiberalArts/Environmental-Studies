@@ -1,12 +1,12 @@
 ---
 title: Research
 permalink: /research/
-layout: page
+layout: tla_page
 keywords: 'research projects, research faculty, geography and urban studies, environmental studies, geographic information systems'
-description: >- 
+description: >-
 published: true
 ---
-The College of Liberal Arts’ Environmental Studies program is serious about finding ways to improve the planet through [research projects](#research-projects) with focus areas like [social justice](#social-justice), [globalization](#globalization), [sustainability](#sustainability) and [geographic methods](#geographic-methods). Meanwhile, the [Spatial Analytics Lab](#spatial-analytics-lab-salt) at Temple University is busy supporting research and education initiatives in the geographical information studies. 
+The College of Liberal Arts’ Environmental Studies program is serious about finding ways to improve the planet through [research projects](#research-projects) with focus areas like [social justice](#social-justice), [globalization](#globalization), [sustainability](#sustainability) and [geographic methods](#geographic-methods). Meanwhile, the [Spatial Analytics Lab](#spatial-analytics-lab-salt) at Temple University is busy supporting research and education initiatives in the geographical information studies.
 
 ## Research Projects
 Faculty research projects focus broadly on the interconnections among processes of globalization, the implications for sustainability, and the impact on equity and social justice. These research emphases incorporate a strong analytical foundation of both quantitative and qualitative geographic methods, as well as urban policy.
@@ -25,7 +25,7 @@ Our specific research foci include four main areas. Click on one to jump to that
 - [Sustainability](#sustainability)
 - [Geographic Methods](#geographic-methods)
 
-## Social Justice 
+## Social Justice
 We are interested in how globalization affects local and regional development and how it contributes to changing economic, social and environmental inequalities both between and within places, with different populations having different life chances depending on their social and geographic location. Our research focuses on the intersection of place and inequality (including gender, race/ethnicity and economic inequalities) both within and between US and international contexts, individual and collective action for equity, and the actors and the process of policy making at multiple scales.
 
 We are interested in how globalization affects local and regional development and how it contributes to changing economic, social, and environmental inequalities both between and within places, with different populations having different life chances depending on their social and geographic location. Our research focuses on the intersection of place and inequality (including gender, race/ethnicity and economic inequalities) both within and between US and international contexts, individual and collective action for equity, and the actors and the process of policy making at multiple scales.
