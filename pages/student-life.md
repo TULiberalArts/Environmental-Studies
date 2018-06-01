@@ -6,8 +6,7 @@ published: true
 # meta-data variables
 title: Student Life
 description: >-
-  We nominate outstanding students at the Department of Geography and
-  Urban Studiesfor environmental studies scholarships.
+  We nominate outstanding students at the Department of Geography and Urban Studiesfor environmental studies scholarships.
 keywords: 'Department of Geography and Urban Studies, student organizations, Environmental Studies scholarships, Environmental Studies awards, Gamma Theta Upsilon'
 # custom variables
 sidebar: false
