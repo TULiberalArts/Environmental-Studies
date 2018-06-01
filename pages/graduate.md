@@ -1,40 +1,15 @@
 ---
-title: Graduate
+# global predefined variables
+layout: tla_page
 permalink: /graduate/
+published: true
+# meta-data variables
+title: Graduate
 description: >-
 keywords: 'PhD in Geography and Urban Studies, Environmental Studies, PSM in GIS, MA in Geography and Urban Studies, Graduate Programs in Geography and Urban Studies'
-layout: page
-published: true
+# custom variables
 sidebar: true
-sidebar-content: |
-  **Chair:**  
-   Melissa Gilbert  
-   309 Gladfelter Hall  
-   [(215) 204-5482](tel:2152045482)  
-   [mgilbert@temple.edu](mailto:mgilbert@temple.edu)  
-
-   ___
-
-   **Graduate Chair:**  
-   Kevin A. Henry  
-   313B Gladfelter Hall    
-   [khenry1@temple.edu](mailto:khenry1@temple.edu)  
-
-   ___
-
-   **Administrator:**  
-   Maggie Cogswell  
-   1008A Gladfelter Hall    
-   [(215) 204-9209](tel:2152049209)   
-   [tuf70408@temple.edu](mailto:tuf70408@temple.edu)   
-
-   ___
-
-   **Coordinator:**  
-   Julia Falcon  
-   338A Gladfelter Hall    
-   [(215) 204-3386](tel:2152043386)   
-   [julia.falcon@temple.edu](mailto:julia.falcon@temple.edu)
+sidebar_content: sidebars/graduate.html
 ---
 ## Programs of Study
 Our graduate programs in Geography and Urban Studies focus on the themes of globalization, sustainability, social justice and geographic methiods including:
