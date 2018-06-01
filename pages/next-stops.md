@@ -1,11 +1,16 @@
 ---
-title: Next Stops
-permalink: /next-stops/
-description: >-
-  Job titles for Environmental Studies majors include Climatologist, Ecologist, Entomologist, Geographer and City Planner.
-keywords: 'Environmental Studies majors, visit, apply, transfer, Environmental Studies careers'
+# global predefined variables
 layout: tla_page
+permalink: /next-stops/
 published: true
+# meta-data variables
+title: Next Stops
+description: >-
+  Job titles for Environmental Studies majors include Climatologist,
+  Ecologist, Entomologist, Geographer and City Planner.
+keywords: 'Environmental Studies majors, visit, apply, transfer, Environmental Studies careers'
+# custom variables
+sidebar: false
 ---
 You care deeply about the health of the planet, enough to pursue an environmental studies degree. But what comes next? Find out what [you can do with a degree in environmental studies](#what-can-I-do-with-a-degree-in-environmental-studies?) and [make your declaration](#make-your-declaration) at the College of Liberal Arts! Need to learn more? Come [visit us](#visit-us) today, review the [application deadlines](#deadlines), consider your [transfer](#thinking-of-transferring) options and [apply](#apply)!
 
