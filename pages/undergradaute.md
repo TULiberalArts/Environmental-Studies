@@ -1,42 +1,17 @@
 ---
-title: Undergraduate
+# global predefined variables
+layout: tla_page
 permalink: /undergraduate/
-description: >-
-  Major or minor in Environmental Studies at Temple University. We also offer an Undergraduate Certificate in GIS, a rapidly-growing field.  
-keywords: 'GIS certificate, Minor in Environmental Studies, BA in Environmental Studies, Environmental Studies Program, tuition, advising'
-layout: page
 published: true
+# meta-data variables
+title: Undergraduate
+description: >-
+  Major or minor in Environmental Studies at Temple University. 
+  We also offer an Undergraduate Certificate in GIS, a rapidly-growing field.  
+keywords: 'GIS certificate, Minor in Environmental Studies, BA in Environmental Studies, Environmental Studies Program, tuition, advising'
+# custom variables
 sidebar: true
-sidebar-content: |
-  **Chair:**  
-   Melissa Gilbert  
-   309 Gladfelter Hall  
-   [(215) 204-5482](tel:2152045482)  
-   [mgilbert@temple.edu](mailto:mgilbert@temple.edu)  
-
-   ___
-
-   **Undergraduate Chair:**  
-   Jeremy Mennis  
-   328 Gladfelter Hall    
-   [(215)204-4748](tel:2152044748)        
-   [jmennis@temple.edu](mailto:jmennis@temple.edu)  
-
-   ___
-
-   **Administrator:**  
-   Maggie Cogswell  
-   1008A Gladfelter Hall   
-   [(215) 204-9209](tel:2152049209)  
-   [tuf70408@temple.edu](mailto:tuf70408@temple.edu)  
-
-   ___
-
-   **Student Services Coordinator:**  
-   Julia Falcon  
-   338A Gladfelter Hall    
-   [(215) 204-3386](tel:2152043386)   
-   [julia.falcon@temple.edu](mailto:julia.falcon@temple.edu)
+sidebar_content: sidebars/undergraduate.html
 ---
 Ready to go green with the Cherry and White? At the College of Liberal Arts, you can earn an [environmental studies degree](#major-in-environmental-studies) or [certificate](#undergraduate-certificate-in-gis). You can even [minor](#minor-in-environmental-studies) in environmental studies. Not sure what path is right for you? Talk to [academic advising and professional development](#academic-advising-and-professional-development) to make sure you [fly in four](#fly-in-four) and build toward your future. Need to learn more? Take a look at our [tuition and fees](#tuition-and-fees), your [financial aid and scholarship](#financial-aid-and-scholarships) options, and [additional resources](#additional-undergraduate-resources).
 
