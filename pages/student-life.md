@@ -1,11 +1,16 @@
 ---
-title: Student Life
-permalink: /student-life/
-description: >-
-  We nominate outstanding students at the Department of Geography and Urban Studies for environmental studies scholarships.
-keywords: 'Department of Geography and Urban Studies, student organizations, Environmental Studies scholarships, Environmental Studies awards, Gamma Theta Upsilon'
+# global predefined variables
 layout: tla_page
+permalink: /student-life/
 published: true
+# meta-data variables
+title: Student Life
+description: >-
+  We nominate outstanding students at the Department of Geography and
+  Urban Studiesfor environmental studies scholarships.
+keywords: 'Department of Geography and Urban Studies, student organizations, Environmental Studies scholarships, Environmental Studies awards, Gamma Theta Upsilon'
+# custom variables
+sidebar: false
 ---
 Earning your environmental studies degree is about more than what you learn in the classroom. Considering [studying abroad](#study-abroad), applying for [awards or scholarships](#environmental-studies-awards-and-scholarships), join an [undergraduate student organization](#student-organizations-for-environmental-studies-students) or our [graduate professional organization](#graduate-professional-organizations-for-environmental-studies).
 
