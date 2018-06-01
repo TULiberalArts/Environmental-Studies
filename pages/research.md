@@ -1,10 +1,14 @@
 ---
-title: Research
-permalink: /research/
+# global predefined variables
 layout: tla_page
-keywords: 'research projects, research faculty, geography and urban studies, environmental studies, geographic information systems'
-description: >-
+permalink: /research/
 published: true
+# meta-data variables
+title: Research
+description: >-
+keywords: 'research projects, research faculty, geography and urban studies, environmental studies, geographic information systems'
+# custom variables
+sidebar: false
 ---
 The College of Liberal Arts’ Environmental Studies program is serious about finding ways to improve the planet through [research projects](#research-projects) with focus areas like [social justice](#social-justice), [globalization](#globalization), [sustainability](#sustainability) and [geographic methods](#geographic-methods). Meanwhile, the [Spatial Analytics Lab](#spatial-analytics-lab-salt) at Temple University is busy supporting research and education initiatives in the geographical information studies.
 
