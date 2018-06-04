@@ -6,6 +6,9 @@ published: true
 # meta-data variables
 title: Research
 description: >-
+  Make use of the Spatial Analytics Lab at Temple University, and conduct research in focus areas like 
+  social justice, globalization, sustainability, and geographic methods. Research faculty and projects 
+  are open to students in geography and urban studies, environmental studies, and geographic information systems.
 keywords: 'research projects, research faculty, geography and urban studies, environmental studies, geographic information systems'
 # custom variables
 sidebar: false
