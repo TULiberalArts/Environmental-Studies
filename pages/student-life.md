@@ -6,7 +6,9 @@ published: true
 # meta-data variables
 title: Student Life
 description: >-
-  We nominate outstanding students at the Department of Geography and Urban Studiesfor environmental studies scholarships.
+  Consider studying abroad, applying for awards or scholarships, and joining an undergraduate student organization
+  or graduate professional organization such as Gamma Theta Upsilon, through the Environmental Studies program 
+  in the department of Geography and Urban Studies at Temple University's College of Liberal Arts.
 keywords: 'Department of Geography and Urban Studies, student organizations, Environmental Studies scholarships, Environmental Studies awards, Gamma Theta Upsilon'
 # custom variables
 sidebar: false
