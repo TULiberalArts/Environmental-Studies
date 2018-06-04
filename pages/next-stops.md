@@ -6,8 +6,8 @@ published: true
 # meta-data variables
 title: Next Stops
 description: >-
-  Job titles for Environmental Studies majors include Climatologist,
-  Ecologist, Entomologist, Geographer and City Planner.
+  Find out what you can do with a degree in Environmental Studies from Temple University. 
+  Make your declaration at the College of Liberal Arts, visit us, learn about transfer options, and apply!
 keywords: 'Environmental Studies majors, visit, apply, transfer, Environmental Studies careers'
 # custom variables
 sidebar: false
