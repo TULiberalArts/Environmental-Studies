@@ -16,7 +16,7 @@ sidebar: false
 Earning your environmental studies degree is about more than what you learn in the classroom. Considering [studying abroad](#study-abroad), applying for [awards or scholarships](#environmental-studies-awards-and-scholarships), join an [undergraduate student organization](#student-organizations-for-environmental-studies-students) or our [graduate professional organization](#graduate-professional-organizations-for-environmental-studies).
 
 ## Study Abroad
-We encourage our students to study abroad during their undergraduate careerfor one semester, which can be a critical part of undergraduate education either through a Temple or another accredited university program. Study abroad is the fastest way to learn a second (or third) language and it can open the door to future international work.We work closely with students to help identify study abroad courses that keep them on track for graduation.
+We encourage our students to study abroad during their undergraduate career for at least one semester, through either Temple or another accredited university program. Study abroad is the fastest way to learn a second (or third) language, a critical part of undergraduate education, and it can open the door to future international work. We work closely with students to help identify study abroad programs and courses that keep them on track for graduation.
 
 [Learn More about our Study Abroad Programs](https://studyabroad.temple.edu/programs)
 
