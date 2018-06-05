@@ -11,13 +11,11 @@ keywords: 'PhD in Geography and Urban Studies, Environmental Studies, PSM in GIS
 sidebar: true
 sidebar_content: sidebars/graduate.html
 ---
+The College of Liberal Arts’ Geography and Urban Studies graduate degrees have several programs of study. Choose from earning a [masters of arts](#ma-in-geography-and-urban-studies) in geography and urban studies, a [PhD](#phd-in-geography-and-urban-studies) in geography and urban studies, a [professional science masters](#psm-in-gis) in geographic information systems or a [graduate certificate](#graduate-certificate-in-gis) in geographic information systems. Get started by familiarizing yourself with your graduate school [funding options](#funding-for-graduate-school), our [admissions process](#admissions-process) and additional [resources](#graduate-resources).
+
 ## Programs of Study
-Our graduate programs in Geography and Urban Studies focus on the themes of globalization, sustainability, social justice and geographic methiods including:
-- GIS
-- Remote Sensing
-- Cartography
-- Program Evaulation
-- Qualitative Methods
+The MA and PhD in Geography and Urban Studies focus on the themes of globalization, sustainability, social justice and geographic methods. Our faculty have expertise in critical geography, spatial analysis, program evaluation and feminist geography.
+Our Professional Science Master’s and Graduate Certificate in GIS is a rigorous, technical program focused on cutting-edge spatial analysis software. Our faculty have expertise in GIS, remote sensing, cartography, and geovisualization.
 
 Please visit the [Geography and Urban Studies Graduate Admissions page](https://liberalarts.temple.edu/admissions/graduate-admissions) to learn more about graduate program requirements, dates and deadlines and instructions on how to apply.
 
@@ -69,7 +67,7 @@ Please visit the [Geography and Urban Studies Graduate Admissions page](https://
 **Graduate Certificate in GIS**:
 - There is no application process for the Graduate Certificate in GIS and students may start taking classes in Fall, Spring or Summer. To get started, email [psmgis@temple.edu](mailto:psmgis@temple.edu).
 
-## Additional Graduate Resources
+## Graduate Resources
 - [Graduate Handbook](https://liberalarts.temple.edu/sites/liberalarts/files/GUS-MA-PhD-graduatehandbook2016-2017.pdf)
 - [Graduate School Forms](http://www.temple.edu/grad/forms/index.htm)
 - [Graduate School Policies](http://www.temple.edu/grad/policies/index.htm)
