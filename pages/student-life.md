@@ -30,7 +30,7 @@ For a complete list of departmental and college level awards and scholarships yo
 We nominate students for membership in the [National Honorary Society in Geography](http://gammathetaupsilon.org/) on the basis of GPA. Students, who are initiated annually, can submit articles to the GTU journal and apply for national scholarships.
 
 **Geography & Urban Studies/Environmental Studies Student Association**
-Not just for GUS/ES students, the [GUS/ES Undergraduate Student Association](https://sustainability.temple.edu/get-involved/students-get-involved-page/geography-urban-studies-environmental-studies-student) focuses on topics in Geography and Urban and Environmental Studies such as geographic information systems, urban agriculture, sustainability, and social justice through guest speakers and group outings.For more information, or to be added to the listserv, please contact [tuguses@gmail.com](mailto:tuguses@gmail.com).
+Not just for GUS/ES students, the GUS/ES Undergraduate Student Association focuses on topics in Geography and Urban and Environmental Studies such as geographic information systems, urban agriculture, sustainability, and social justice through guest speakers and group outings.For more information, or to be added to the listserv, please contact [tuguses@gmail.com](mailto:tuguses@gmail.com).
 
 ## Graduate Professional Organizations for Environmental Studies
 **Association of American Geographers**
