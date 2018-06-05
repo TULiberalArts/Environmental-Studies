@@ -13,12 +13,12 @@ keywords: 'GIS certificate, Minor in Environmental Studies, BA in Environmental 
 sidebar: true
 sidebar_content: sidebars/undergraduate.html
 ---
-Ready to go green with the Cherry and White? At the College of Liberal Arts, you can earn an [environmental studies degree](#major-in-environmental-studies) or [certificate](#undergraduate-certificate-in-gis). You can even [minor](#minor-in-environmental-studies) in environmental studies. Not sure what path is right for you? Talk to [academic advising and professional development](#academic-advising-and-professional-development) to make sure you [fly in four](#fly-in-four) and build toward your future. Need to learn more? Take a look at our [tuition and fees](#tuition-and-fees), your [financial aid and scholarship](#financial-aid-and-scholarships) options, and [additional resources](#additional-undergraduate-resources).
+Ready to go green with the Cherry and White? At the College of Liberal Arts, you can earn an [environmental studies degree](#major-in-environmental-studies) or [certificate](#undergraduate-certificate-in-gis). You can even [minor](#minor-in-environmental-studies) in environmental studies or take advantage of our [accelerated degree](#accelerated-degree-offerings-4-1) offerings. Not sure what path is right for you? Talk to [academic advising and professional development](#academic-advising-and-professional-development) to make sure you [fly in four](#fly-in-four) and build toward your future. Need to learn more? Take a look at our [tuition and fees](#tuition-and-fees), your [financial aid and scholarship](#financial-aid-and-scholarships) options, and [additional resources](#additional-undergraduate-resources).
 
 ## Major in Environmental Studies
 Environmental Studies is an interdisciplinary major offered by the Department of Geography and Urban Studies. Environmental Studies examines the nature, causes and consequences of human interactions with the environment. Students in Environmental Studies seek to understand and address the crucial environmental issues of our time, such as climate change, environmental justice, and resource management. Our students are introduced to physical geography, an understanding of the economic system, and social science methods (GIS, spatial statistics, remote sensing, environmental impact assessment, quantitative and qualitative research methods) and are given flexibility to choose electives that fit the students’ own academic interests.
 
-This major prepares students for environmentally-focused careers as well as graduate programs in environmental studies, law, geography, resource management, planning and other fields. This certificate is open to students in all majors across all colleges and schools at Temple University.
+This major prepares students for environmentally-focused careers as well as graduate programs in environmental studies, sustainability, law, geography, resource management, planning and other fields. 
 
 Environment Studies student are introduced to:
 - Current environmental issues such as health and justice, geospatial techniques and environmental policy
@@ -32,9 +32,16 @@ A minor in environmental studies is available to any student enrolled at Temple 
 [Learn More about Minoring in Environmental Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/environmental-studies/minor-environmental-studies/)
 
 ## Undergraduate Certificate in GIS
-GIS is powerful analytical software that combines data with maps. It allows users to query, analyze and visualize spatial data, asking any “where” questions, such as “where are we seeing outbreaks of flu,” “where will this utility have the greatest impact” or “where should we open our storefront?”  Because it is so widely applicable, geographic information has become one of the linchpins of the Information Age. Employers across industries are seeking candidates trained in geospatial technologies. Because its uses are so pervasive, geospatial technology is considered a high-growth industry by the U.S. Department of Labor, growing at an annual rate of almost 35 percent, with faster than average job growth expected over the next 10 years.
+GIS is powerful analytical software that combines data with maps. It allows users to query, analyze and visualize spatial data, asking any “where” questions, such as “where are we seeing outbreaks of flu,” “where will this utility have the greatest impact” or “where should we open our storefront?” Because it is so widely applicable, geographic information has become one of the linchpins of the Information Age. Employers across industries are seeking candidates trained in geospatial technologies. Because its uses are so pervasive, the U.S. Department of Labor considers geospatial technology a high-growth industry, growing at an annual rate of almost 35 percent, with faster than average job growth expected over the next 10 years.
 
 [Learn More About the Certificate in Geographic Information Systems](http://bulletin.temple.edu/undergraduate/liberal-arts/geography-urban-studies/certificate-geographic-information-systems/)
+
+## Accelerated Degree Offerings (4+1)
+We offer two 4+1 programs, allowing students to start pursuing a graduate degree in their junior or senior year and completing their graduate degree in one additional year. Students may enter the 4+1 in their junior or senior year, taking up to four graduate-level courses during their undergraduate program. The remaining graduate credits are completed in the year following the awarding of their bachelor’s degree. Graduate level courses completed during the Junior or Senior year may be used to satisfy major requirements, as apporpriate.
+
+The 4+1 allows students to begin pursuing a graduate degree in a high-growth area during their undergraduate career, reducing the time to completion and cost of the graduate programs.
+
+Questions? Contact [guses@temple.edu](mailto:guses@temple.edu).
 
 ## Academic Advising and Professional Development
 Take full advantage of the [College of Liberal Arts](https://liberalarts.temple.edu/)’ flexible curriculum with the help of our award-winning advisors. We help you select a major or minor, and graduate on time. Beyond academics, our advisors ensure that you have a rich experience at Temple by complementing your academic work with study abroad programs, internships and other experiential learning opportunities.
