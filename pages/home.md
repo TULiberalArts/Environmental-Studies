@@ -32,7 +32,6 @@ Through interdisciplinary coursework that confers strong social science skills w
 - Social science research methods, policy analysis, and technical skills
 - Written, oral and visual communication skills
 - Geographic Information Systems (GIS) and mapping software
-<div align="center"><iframe width="800" height="400" src="https://youtu.be/ug_TJtS618A" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 <iframe width="800" height="400" src="https://www.youtube.com/embed/ug_TJtS618A" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ___
