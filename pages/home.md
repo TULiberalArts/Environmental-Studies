@@ -20,11 +20,10 @@ feature-body: >-
   and beyond, working in business, government and non-profits sectors.
 ---
 ## Globalization. Social Justice. Sustainability. Geographic Methods.
-Environmental Studies takes an interdisciplinary approach to the examination of nature and the causes and consequences of human interactions with the environment. Are natural disasters truly 'natural'? Why environmental benefits and burdens inequitably distributed across cities and regions? How do global environmental processes impact the health and wellbeing of populations in different places? Our programs focus on teaching and research for social change using a range of geographic methods.
+Environmental Studies students are equipped with the tools to understand and address the crucial environmental issues of our time, including sustainability, health, climate change, food access, natural resource consumption, and environmental justice. Environmental Studies takes an interdisciplinary approach to the examination of nature and the causes and consequences of human interactions with the environment. Are natural disasters truly ‘natural’? Why environmental benefits and burdens inequitably distributed across cities and regions? How do global environmental processes impact the health and wellbeing of populations in different places? Our programs focus on teaching and research for social change using a range of geographic methods.
 
-Our department offers a B.A., in Environmental Studies and M.A. and PhD in Geography and Urban Studies. These programs combine interdisciplinary coursework, strong research skills and technical training to prepare our students to address pressing issues in globalization, sustainability and social justice.
-
-We equip our students with the tools to understand and address the crucial environmental issues of our time, such as climate change, food access and natural resource consumption. Through interdisciplinary coursework that confers strong social science skills with technical training, our students are trained to analyze multi-faceted problems with a range of analytical tools and skills including the following:
+Our department offers a B.A., in Environmental Studies and M.A. and PhD in Geography and Urban Studies. These programs combine interdisciplinary coursework, strong research skills and technical training to prepare our students to address pressing issues in globalization, sustainability and social justice.
+Through interdisciplinary coursework that confers strong social science skills with technical training, our students are trained to analyze multi-faceted problems with a range of analytical tools and skills including the following:
 
 - A global approach
 - Spatial thinking
@@ -34,16 +33,20 @@ We equip our students with the tools to understand and address the crucial envir
 - Written, oral and visual communication skills
 - Geographic Information Systems (GIS) and mapping software
 
+<div align="center"><iframe width="800" height="400" src="https://www.youtube.com/watch?v=ug_TJtS618A&feature=youtu.be" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
+
 ## Academic Offerings
 - [Major in Environmental Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/environmental-studies/ba-environmental-studies/)
 - [Minor in Environmental Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/environmental-studies/ba-environmental-studies/)
 - [Major in Geography and Urban Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/geography-urban-studies/ba-geography-urban-studies/)
 - [Minor in Geography and Urban Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/geography-urban-studies/minor-geography-urban-studies/)
-- [PhD in Geography and Urban Studies](http://bulletin.temple.edu/graduate/scd/cla/geography-urban-studies-phd/)
-- [MA in Geography and Urban Studies](http://bulletin.temple.edu/graduate/scd/cla/geography-urban-studies-ma/)
 - [Undergraduate Certificate in Geographic Information Systems](http://bulletin.temple.edu/undergraduate/liberal-arts/geography-urban-studies/certificate-geographic-information-systems/)
+- [MA in Geography and Urban Studies](http://bulletin.temple.edu/graduate/scd/cla/geography-urban-studies-ma/)
 - [Professional Science Master’s in Geographic Information Systems](http://bulletin.temple.edu/graduate/scd/cla/geographic-information-systems-psm/)
+- [PhD in Geography and Urban Studies](http://bulletin.temple.edu/graduate/scd/cla/geography-urban-studies-phd/)
 - [Graduate Certificate in Geographic Information Systems](http://bulletin.temple.edu/graduate/scd/cla/geographic-information-systems-certificate/)
+
+___
 
 <div class="row row-wide">
   <div class="col m12 l4">{% include cards/card2-image.html
