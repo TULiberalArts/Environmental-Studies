@@ -6,7 +6,7 @@ published: true
 # meta-data variables
 title: Undergraduate
 description: >-
-  Earn a BA, minor, or certificate in Environmental Studies at Temple University. Students are introduced to issues such as 
+  Earn a BA, minor, or certificate in Environmental Studies at Temple University. Students are introduced to issues such as
   health and justice, geospatial techniques, and environmental policy. Learn more about our GIS certificate, tuition, and advising.
 keywords: 'GIS certificate, Minor in Environmental Studies, BA in Environmental Studies, Environmental Studies Program, tuition, advising'
 # custom variables
@@ -18,7 +18,7 @@ Ready to go green with the Cherry and White? At the College of Liberal Arts, you
 ## Major in Environmental Studies
 Environmental Studies is an interdisciplinary major offered by the Department of Geography and Urban Studies. Environmental Studies examines the nature, causes and consequences of human interactions with the environment. Students in Environmental Studies seek to understand and address the crucial environmental issues of our time, such as climate change, environmental justice, and resource management. Our students are introduced to physical geography, an understanding of the economic system, and social science methods (GIS, spatial statistics, remote sensing, environmental impact assessment, quantitative and qualitative research methods) and are given flexibility to choose electives that fit the students’ own academic interests.
 
-This major prepares students for environmentally-focused careers as well as graduate programs in environmental studies, sustainability, law, geography, resource management, planning and other fields. 
+This major prepares students for environmentally-focused careers as well as graduate programs in environmental studies, sustainability, law, geography, resource management, planning and other fields.
 
 Environment Studies student are introduced to:
 - Current environmental issues such as health and justice, geospatial techniques and environmental policy
