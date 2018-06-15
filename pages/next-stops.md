@@ -14,7 +14,7 @@ sidebar: false
 ---
 You care deeply about the health of the planet, enough to pursue an environmental studies degree. But what comes next? Find out what [you can do with a degree in environmental studies](#what-can-I-do-with-a-degree-in-environmental-studies?) and [make your declaration](#make-your-declaration) at the College of Liberal Arts! Need to learn more? Come [visit us](#visit-us) today, review the [application deadlines](#deadlines), consider your [transfer](#thinking-of-transferring) options and [apply](#apply)!
 
-## What Can I do with a degree in Environmental Studies?
+## What Can I Do with a Degree in Environmental Studies?
 Graduates in Environmental Studies from Temple University land competitive, meaningful jobs upon graduation in Philadelphia and beyond, working in business, government and non-profits. The U.S. Department of Labor projects faster than average growth for careers in environmental fields.
 
 Jobs for Environmental Studies majors include:
@@ -47,7 +47,7 @@ So many of our distinguished alumni have gone on to great accomplishments. The s
 
 - [Darion Porter](https://liberalarts.temple.edu/news/darion-porter)<br/>
   Research Assistant with the Public Health Management Corporation<br/>
-  B.A. in Environmental Studies from temple in 2017<br/>
+  B.A. in Environmental Studies from Temple in 2017<br/>
 
 - [Yuan Huang](https://liberalarts.temple.edu/news/alumni-spotlight-yuan-huang)<br/>
   Assistant Policy Director for the City of Philadelphia Mayor’s Office of Policy<br/>
