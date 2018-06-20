@@ -5,6 +5,8 @@ title: Environmental Studies
 baseurl: /environmental-studies
 # Production domain (without / at the end)
 production: https://www.cla.temple.edu
+# url spits sitemap
+url: https://www.cla.temple.edu/environmental-studies
 
 
 # Program Information
