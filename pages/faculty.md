@@ -12,4 +12,4 @@ keywords: 'Department of Geography and Urban Studies faculty, Environmental Stud
 # custom variables
 sidebar: false
 ---
-Our Environmental Studies faculty are experts in Geography and Urban Studies, Environmental Studies and GIS.
+Our Environmental Studies faculty are experts in Geography and Urban Studies, Environmental Studies and Geographic Information Systems.
