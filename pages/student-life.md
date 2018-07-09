@@ -13,24 +13,24 @@ keywords: 'Department of Geography and Urban Studies, student organizations, Env
 # custom variables
 sidebar: false
 ---
-Earning your environmental studies degree is about more than what you learn in the classroom. Considering [studying abroad](#study-abroad), applying for [awards or scholarships](#environmental-studies-awards-and-scholarships), join an [undergraduate student organization](#student-organizations-for-environmental-studies-students) or our [graduate professional organization](#graduate-professional-organizations-for-environmental-studies).
+Earning your environmental studies degree is about more than what you learn in the classroom. Consider [studying abroad](#study-abroad), applying for [awards or scholarships](#environmental-studies-awards-and-scholarships), join an [undergraduate student organization](#student-organizations-for-environmental-studies-students) or our [graduate professional organization](#graduate-professional-organizations-for-environmental-studies).
 
 ## Study Abroad
-We encourage our students to study abroad during their undergraduate career for at least one semester, through either Temple or another accredited university program. Study abroad is the fastest way to learn a second (or third) language, a critical part of undergraduate education, and it can open the door to future international work. We work closely with students to help identify study abroad programs and courses that keep them on track for graduation.
+Students are encouraged to study abroad during their undergraduate career for at least one semester through either Temple University or another accredited university program. Studying abroad is the fastest way to learn a second (or third) language–a critical part of undergraduate education–and it can open the door to future international work. We work closely with students to help identify study abroad programs and courses that keep them on track for graduation.
 
-[Learn More about our Study Abroad Programs](https://studyabroad.temple.edu/programs)
+Learn More about our [Study Abroad Programs](https://studyabroad.temple.edu/programs)
 
 ## Environmental Studies Awards and Scholarships
-Awards and scholarships are presented annually to students from the Department of Geography and Urban Studies (including Environmental Studies majors) who exhibit academic excellence. In addition, scholarships take into account demonstrated financial need.
+Awards and scholarships are presented annually to Department of Geography and Urban Studies students (including environmental studies majors) who exhibit academic excellence. In addition, scholarships take into account demonstrated financial need.
 
-For a complete list of departmental and college level awards and scholarships you may be eligible for, please visit the [College of Liberal Arts Awards and Scholarships](https://liberalarts.temple.edu/about-us/resources/awards-and-scholarships?field_awards_department_nid=4591&field_awards_academics_class_value=All) page.
+For a complete list of departmental and college-level awards and scholarships you may be eligible for, please visit the [College of Liberal Arts Awards and Scholarships](https://liberalarts.temple.edu/about-us/resources/awards-and-scholarships?field_awards_department_nid=4591&field_awards_academics_class_value=All) page.
 
 ## Student Organizations for Environmental Studies Students
-**Gamma Theta Upsilon**
-We nominate students for membership in the [National Honorary Society in Geography](http://gammathetaupsilon.org/) on the basis of GPA. Students, who are initiated annually, can submit articles to the GTU journal and apply for national scholarships.
+**Gamma Theta Upsilon (GTU)**
+Students are nominated for and annually granted membership in the [National Honorary Society in Geography](http://gammathetaupsilon.org/) on the basis of GPA. Students can submit articles to the GTU journal and apply for national scholarships.
 
 **Geography & Urban Studies/Environmental Studies Student Association**
-Not just for GUS/ES students, the GUS/ES Undergraduate Student Association focuses on topics in Geography and Urban and Environmental Studies such as geographic information systems, urban agriculture, sustainability, and social justice through guest speakers and group outings. For more information, or to be added to the listserv, please contact [tuguses@gmail.com](mailto:tuguses@gmail.com).
+Not just for GUS/ES students, the GUS/ES Undergraduate Student Association focuses on topics in Geography and Urban and Environmental Studies: geographic information systems, urban agriculture, sustainability, and social justice through guest speakers and group outings. For more information, or to be added to the listserv, please contact [tuguses@gmail.com](mailto:tuguses@gmail.com).
 
 ## Graduate Professional Organizations for Environmental Studies
 **Association of American Geographers**
