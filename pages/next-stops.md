@@ -15,7 +15,7 @@ sidebar: false
 You care deeply about the health of the planet, enough to pursue an environmental studies degree. But what comes next? Find out what [you can do with a degree in environmental studies](#what-can-I-do-with-a-degree-in-environmental-studies?) and [make your declaration](#make-your-declaration) at the College of Liberal Arts! Need to learn more? Come [visit us](#visit-us) today, review the [application deadlines](#deadlines), consider your [transfer](#thinking-of-transferring) options and [apply](#apply)!
 
 ## What Can I Do with a Degree in Environmental Studies?
-Graduates in Environmental Studies from Temple University land competitive, meaningful jobs upon graduation in Philadelphia and beyond, working in business, government and non-profits. The U.S. Department of Labor projects faster than average growth for careers in environmental fields.
+Temple University Environmental studies graduates land competitive, meaningful jobs upon graduation in Philadelphia and beyond, working in business, government and nonprofits. The [U.S. Department of Labor](https://www.bls.gov/ooh/life-physical-and-social-science/environmental-scientists-and-specialists.htm) projects faster-than-average growth for careers in environmental fields.
 
 Jobs for Environmental Studies majors include:
 - Environmental Activism and Conservation
@@ -29,7 +29,7 @@ Jobs for Environmental Studies majors include:
 - Urban Gardening
 - Research
 
-Environmental Studies majors from the Department of Geography and Urban Studies land coveted internship and full-time positions with major organizations that include:
+Environmental studies majors land coveted internship and full-time positions with major organizations:
 - Environmental Protection Agency
 - Mayor’s Office of Sustainability
 - Delaware Valley Regional Planning Commission
@@ -41,7 +41,7 @@ Environmental Studies majors from the Department of Geography and Urban Studies 
 - Greenpeace
 
 ## Notable Alumni
-So many of our distinguished alumni have gone on to great accomplishments. The stories below feature some of our outstanding alumni who have risen to levels of professional acclaim and successes!
+Many of our distinguished alumni have gone on to great accomplishments. The stories below feature some of our outstanding alumni who have risen to levels of professional acclaim and successes!
 
 **_Alumni Spotlight_**
 
@@ -66,32 +66,29 @@ So many of our distinguished alumni have gone on to great accomplishments. The s
   M.A. in Geography and Urban Studies from Temple in 2015<br/>
   
 - [Colleen Hammelman, PhD](https://liberalarts.temple.edu/news/alumni-spotlight-colleen-hammelman)<br/>
-  Postdoctoral fellow in David Heeger’s Computational Neuroimaging Lab at NYU<br/>
+  Assistant Professor, Department of Geography and Earth Sciences at UNC Charlotte Dissertation: “Connecting for survival: Understanding   the spatial implications of migrant women’s food insecurity coping strategies in Medellín, Colombia, and Washington, DC.”<br/>
   PhD in Geography and Urban Studies from Temple in 2016<br/>
   
  - [Michael Schwebel, PhD](https://liberalarts.temple.edu/news/alumni-spotlight-michael-schwebel)<br/>
   Lead Researcher in Ethnographic and Qualitative Studies at LiquidHub<br/>
+  Dissertation: Havens or Lost at Sea: The Fate of Climate Change Policy in South Pacific Small Island States?<br/>
   PhD in Geography and Urban Studies from Temple in 2015<br/>
 
-See where some of out additional alumni have landed:
-- Jessica Wyckoff, Philabundance (food) (GUS/ES 2009)<br/>
-- Aaron Fraint, Bicycle Planner & GIS Developer, New York City Department of (GUS/ES 2011)<br/>
+See where some of our additional alumni have landed:
+- Aaron Fraint, Bicycle Planner & GIS Developer, New York City Department of (GUS/ES, 2011)<br/>
 - Will Fraser, Transportation Outreach Coordinator, Clean Air Council (ES, 2016)<br/>
-- Caroline Slama, Associate Director, Preservation Services, Preservation Alliance (GUS, 2016)<br/>
 - Alyssa Geoghan, Assistant Planner, Michael Baker (ES, 2016)<br/>
-- Taylor Magee, Volunteer Services Coordinator, Habitat for Humanity (ES 2017)<br/>
-- Mattingly Cohen, Community Outreach Coordinator, Philadelphia Parks Alliance (GUS 2017)<br/>
-- Charlotte Neal, GIS specialist at APEX Systems (GUS 2018)<br/>
+- Taylor Magee, Volunteer Services Coordinator, Habitat for Humanity (ES, 2017)<br/>
 
   ___
 
 ## Make Your Declaration
-The College of Liberal Arts has the largest selection of academic offerings at Temple University. Our students have the flexibility to explore all of their interests, from the humanities and social sciences to business and the media arts. The College of Liberal Arts prepares students to become innovators in all fields, across all industries. We are civic-minded, globally conscious creative thinkers, doers and risk-takers. Home to 28 departments and programs, we offer a solid liberal arts education at a premier urban, research university.
+The College of Liberal Arts has Temple University’s largest selection of academic offerings. Our students have the flexibility to explore all of their interests, from the humanities and social sciences to business and the media arts. The College of Liberal Arts prepares students to become innovators in all fields, across all industries. We are civic-minded, globally conscious creative thinkers, doers and risk-takers. Home to 28 departments and programs, we offer an outstanding liberal arts education at a premier urban Research I university.
 
-[Explore the Complete List of Academic Offerings at CLA](https://liberalarts.temple.edu/)
+Explore the [Complete List of Academic Offerings at CLA](https://liberalarts.temple.edu/)
 
 ## Visit Us!
-To know what Temple is really about, you have to experience it firsthand. Our Main Campus in Philadelphia is an energetic community of students, faculty and local culture. And the opportunities don’t stop there. For Temple students, all of Philadelphia is a place to learn and branch out. The Office of Admissions offers tours daily. If you would like to experience the College of Liberal Arts firsthand, get in touch with us.
+To know what Temple is really about, you have to experience it firsthand. Our Main Campus in Philadelphia is an energetic community of students, faculty and local culture. And the opportunities don’t stop there. For Temple students, all of Philadelphia is a place to learn and branch out. The Office of Admissions offers tours daily. Get in touch with us to experience the College of Liberal Arts for yourself.
 
 [Arrange a Visit](http://admissions.temple.edu/visit)
 
