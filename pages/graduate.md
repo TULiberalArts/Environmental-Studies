@@ -22,7 +22,7 @@ Please visit the [Geography and Urban Studies Graduate Admissions page](https://
 ## MA in Geography and Urban Studies
 Graduate students in Geography and Urban Studies emphasize research in environmental issues, gender and race, geographic methods, international development, social and spatial theory and urban development. The MA degree is designed to prepare students for further graduate study as well as for professional positions related to urban and economic development, environmental sustainability and social justice. Students in the MA have the option to pursue a Graduate Certificate in GIS with no additional coursework.
 
-[Learn More about the MA in Geography and Urban Studies Program](http://bulletin.temple.edu/graduate/scd/cla/geography-urban-studies-ma/)
+Learn More about the [MA in Geography and Urban Studies Program](http://bulletin.temple.edu/graduate/scd/cla/geography-urban-studies-ma/)
 
 ## PhD in Geography and Urban Studies
 We offer an integrative doctoral program in geography and urban studies that gives students a strong analytical foundation and stresses spatial relations, scale transitions, place and context and societal relations. Graduates of our PhD program in Geography and Urban Studies are prepared for faculty positions in a range of academic disciplines; they work in programs and departments that range from traditional geography to more interdisciplinary ones like development studies and urban planning. They also work in NGOs, private sector firms and think tanks that deal with relevant issues.
