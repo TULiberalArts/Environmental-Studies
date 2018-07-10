@@ -20,7 +20,7 @@ Environmental studies is an interdisciplinary major offered by the Department of
 
 This major prepares students for environmentally focused careers as well as graduate programs in environmental studies, sustainability, law, geography, resource management, planning and other fields.
 
-Environment Studies student are introduced to:
+Environmental Studies students are introduced to:
 
 - Current environmental issues such as health and justice, geospatial techniques and environmental policy
 - Social science approaches to examining nature-society relations
