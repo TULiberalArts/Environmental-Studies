@@ -13,7 +13,7 @@ keywords: 'research projects, research faculty, geography and urban studies, env
 # custom variables
 sidebar: false
 ---
-The College of Liberal Arts’ Geography and Urban Studies degree professors aren’t just teachers. They’re also researchers, and they encourage their students to contribute to their groundbreaking research. The Department of Geography and Urban Studies’ [selected research projects](#selected- research-projects) have four focus areas: [social justice](#focus-areas), [globalization](#focus-areas), [sustainability](#focus-areasy) and [geographic methods](#focus-areas). A portion of their work is performed at the [Spatial Analytics Lab](#spatial-analytics-lab-salt). Learn more about the department’s [research services](#our-services).
+The College of Liberal Arts’ Geography and Urban Studies degree professors aren’t just teachers. They’re also researchers, and they encourage their students to contribute to their groundbreaking research. The Department of Geography and Urban Studies’ [selected research projects](#selected-research-projects) have four focus areas: [social justice](#focus-areas), [globalization](#focus-areas), [sustainability](#focus-areasy) and [geographic methods](#focus-areas). A portion of their work is performed at the [Spatial Analytics Lab](#spatial-analytics-lab-salt). Learn more about the department’s [research services](#our-services).
 
 ## Research Projects
 Faculty research projects focus broadly on the interconnections among processes of globalization, the implications for sustainability, and the impact on equity and social justice. These research emphases incorporate a strong analytical foundation of both quantitative and qualitative geographic methods, as well as urban policy.
