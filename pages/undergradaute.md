@@ -40,7 +40,7 @@ Learn More About the [Certificate in Geographic Information Systems](http://bull
 ## Accelerated Degree Offerings (4+1)
 Students can start pursuing a graduate degree in their junior or senior year and complete their graduate degree in one additional year by enrolling in a 4+1 program. Students may enter the 4+1 program in their junior or senior year, taking up to four graduate-level courses during their undergraduate program. The remaining graduate credits are completed the year after completing their bachelor’s degree. Graduate-level courses completed during the junior or senior year may be used to satisfy major requirements, as appropriate.
 
-The 4+1 allows students to begin pursuing a graduate degree in a high-growth area during their undergraduate career, reducing the time and cost of a graduate programs.
+This program allows students to start pursuing a graduate degree in a high-growth field in their junior or senior year and is open to students in all majors who are interested in careers in data-driven decision making, spatial analysis and data visualization.
 
 - BA/BS and Professional Science Master’s in GIS<br>
 - BA/BS and MA in Geography and Urban Studies<br>
