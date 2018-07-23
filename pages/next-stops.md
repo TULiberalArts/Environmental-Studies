@@ -66,12 +66,11 @@ Many of our distinguished alumni have gone on to great accomplishments. The stor
   M.A. in Geography and Urban Studies from Temple in 2015<br/>
   
 - [Colleen Hammelman, PhD](https://liberalarts.temple.edu/news/alumni-spotlight-colleen-hammelman)<br/>
-  Assistant Professor, Department of Geography and Earth Sciences at UNC Charlotte Dissertation: “Connecting for survival: Understanding   the spatial implications of migrant women’s food insecurity coping strategies in Medellín, Colombia, and Washington, DC.”<br/>
+  Assistant Professor, Department of Geography and Earth Sciences at UNC Charlotte<br/> 
   PhD in Geography and Urban Studies from Temple in 2016<br/>
   
  - [Michael Schwebel, PhD](https://liberalarts.temple.edu/news/alumni-spotlight-michael-schwebel)<br/>
   Lead Researcher in Ethnographic and Qualitative Studies at LiquidHub<br/>
-  Dissertation: Havens or Lost at Sea: The Fate of Climate Change Policy in South Pacific Small Island States?<br/>
   PhD in Geography and Urban Studies from Temple in 2015<br/>
 
 See where some of our additional alumni have landed:
