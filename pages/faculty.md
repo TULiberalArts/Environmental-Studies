@@ -11,5 +11,7 @@ description: >-
 keywords: 'Department of Geography and Urban Studies faculty, Environmental Studies faculty, Environmental Studies program'
 # custom variables
 sidebar: false
+emeritus: true
+emeritus_content: profiles/emeritus.html
 ---
 Our Environmental Studies faculty are experts in Geography and Urban Studies, Environmental Studies and Geographic Information Systems.
