@@ -10,7 +10,7 @@ keywords: 'PhD in Geography and Urban Studies, Environmental Studies, PSM in GIS
 # custom variables
 sidebar: true
 sidebar_content: sidebars/graduate.html
-graduate_students: true
+graduate_students: false
 graduate_students_content: profiles/graduate_students_2.html
 ---
 The College of Liberal Arts’ Geography and Urban Studies graduate degrees have several programs of study. Choose from earning a [masters of arts](#ma-in-geography-and-urban-studies) in geography and urban studies, a [PhD](#phd-in-geography-and-urban-studies) in geography and urban studies, a [professional science masters](#psm-in-gis) in geographic information systems or a [graduate certificate](#graduate-certificate-in-gis) in geographic information systems. Get started by familiarizing yourself with your graduate school [funding options](#funding-for-graduate-school), our [admissions process](#admissions-process) and additional [resources](#graduate-resources).
@@ -74,8 +74,3 @@ Please visit the [Geography and Urban Studies Graduate Admissions page](https://
 - [Graduate School Forms](http://www.temple.edu/grad/forms/index.htm)
 - [Graduate School Policies](http://www.temple.edu/grad/policies/index.htm)
 - [Applying to Graduate School](http://www.temple.edu/grad/admissions/howtoapply.htm)
-
-___
-
-{% include {{ page.graduate_students_content }} %}
-
