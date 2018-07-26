@@ -13,13 +13,12 @@ keywords: 'Department of Geography and Urban Studies, Environmental Studies, aca
 # custom variables
 sidebar: false
 feature: true
-feature-title: Study the Environment
+feature-title: Globalization. Social Justice. Sustainability. Geographic Methods.
 feature-image: hero_ES_bg.png
 feature-body: >-
   Our students land competitive, meaningful jobs upon graduation in Philadelphia 
   and beyond, working in business, government and non-profits sectors.
 ---
-## Globalization. Social Justice. Sustainability. Geographic Methods.
 Environmental studies students are equipped with the tools to understand and address the crucial environmental issues of our time: sustainability, health, climate change, food access, natural resource consumption and environmental justice.
 
 Environmental studies students are equipped with the tools to understand and address the crucial environmental issues of our time, including sustainability, health, climate change, food access, natural resource consumption and environmental justice. Environmental studies takes an interdisciplinary approach to the examination of nature and the causes and consequences of human interactions with the environment. Are natural disasters truly “natural”? Why are environmental benefits and burdens inequitably distributed across cities and regions? How do global environmental processes impact the health and wellbeing of populations in different places? Our programs focus on teaching and research for social change using a range of geographic methods.
