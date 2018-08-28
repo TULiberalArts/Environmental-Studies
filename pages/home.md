@@ -6,17 +6,18 @@ published: true
 # meta-data variables
 title: Home
 description: >-
-  Address real world environmental issues with interdisciplinary coursework, strong research skills, 
-  and technical training from the Environmental Studies program of Temple University’s College of Liberal 
+  Address real world environmental issues with interdisciplinary coursework, strong research skills,
+  and technical training from the Environmental Studies program of Temple University’s College of Liberal
   Arts. View our academic offerings in affiliation with the Department of Geography and Urban Studies.
 keywords: 'Department of Geography and Urban Studies, Environmental Studies, academic offerings, Environmental Studies Program'
 # custom variables
 sidebar: false
+promotion-table: true
 feature: true
 feature-title: Globalization. Social Justice. Sustainability. Geographic Methods.
 feature-image: hero_ES_bg.png
 feature-body: >-
-  Our students land competitive, meaningful jobs upon graduation in Philadelphia 
+  Our students land competitive, meaningful jobs upon graduation in Philadelphia
   and beyond, working in business, government and non-profits sectors.
 ---
 Environmental studies students are equipped with the tools to understand and address the crucial environmental issues of our time: sustainability, health, climate change, food access, natural resource consumption and environmental justice.
