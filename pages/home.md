@@ -33,7 +33,7 @@ Our department offers a BA in environmental studies and a MA and PhD in geograph
 - Social science research methods, policy analysis, and technical skills
 - Written, oral and visual communication skills
 - Geographic Information Systems (GIS) and mapping software
-<div align="center"><iframe width="800" height="400" src="https://www.youtube.com/embed/ug_TJtS618A" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
+<div align="center" class="video-container"><iframe width="800" height="400" src="https://www.youtube.com/embed/ug_TJtS618A" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 
 ___
 
