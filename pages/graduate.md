@@ -13,11 +13,10 @@ sidebar_content: sidebars/graduate.html
 graduate_students: true
 graduate_students_content: profiles/graduate_students_2.html
 ---
-The College of Liberal Arts’ Geography and Urban Studies graduate degrees have several programs of study. Choose from earning a [masters of arts](#ma-in-geography-and-urban-studies) in geography and urban studies, a [PhD](#phd-in-geography-and-urban-studies) in geography and urban studies, a [professional science masters](#psm-in-gis) in geographic information systems or a [graduate certificate](#graduate-certificate-in-gis) in geographic information systems. Get started by familiarizing yourself with your graduate school [funding options](#funding-for-graduate-school), our [admissions process](#admissions-process) and additional [resources](#graduate-resources).
+The College of Liberal Arts’ Geography and Urban Studies graduate degrees have several programs of study. Choose from earning a [Masters of Arts](#ma-in-geography-and-urban-studies) in geography and urban studies, a [PhD](#phd-in-geography-and-urban-studies) in geography and urban studies, a [Professional Science Masters](#psm-in-gis) in geographic information systems or a [Graduate Certificate](#graduate-certificate-in-gis) in geographic information systems. Get started by familiarizing yourself with your graduate school [funding options](#funding-for-graduate-school), our [admissions process](#admissions-process) and additional [resources](#graduate-resources).
 
 ## Programs of Study
-The MA and PhD in Geography and Urban Studies focus on the themes of globalization, sustainability, social justice and geographic methods. Our faculty have expertise in critical geography, spatial analysis, program evaluation and feminist geography.
-Our Professional Science Master’s and Graduate Certificate in GIS is a rigorous, technical program focused on cutting-edge spatial analysis software. Our faculty have expertise in GIS, remote sensing, cartography, and geovisualization.
+The MA and PhD in Geography and Urban Studies focus on the themes of globalization, sustainability, social justice and geographic methods. Our faculty have expertise in critical geography, spatial analysis, program evaluation and feminist geography. Our Professional Science Master’s and Graduate Certificate in GIS are rigorous, technical programs focused on cutting-edge spatial analysis software. Our faculty have expertise in GIS, remote sensing, cartography and geovisualization.
 
 ## MA in Geography and Urban Studies
 Graduate students in Geography and Urban Studies emphasize research in environmental issues, gender and race, geographic methods, international development, social and spatial theory and urban development. The MA degree is designed to prepare students for further graduate study as well as for professional positions related to urban and economic development, environmental sustainability and social justice. Students in the MA have the option to pursue a Graduate Certificate in GIS with no additional coursework.
@@ -25,7 +24,7 @@ Graduate students in Geography and Urban Studies emphasize research in environme
 Learn More about the [MA in Geography and Urban Studies Program](http://bulletin.temple.edu/graduate/scd/cla/geography-urban-studies-ma/)
 
 ## PhD in Geography and Urban Studies
-We offer an integrative doctoral program in geography and urban studies that gives students a strong analytical foundation and stresses spatial relations, scale transitions, place and context and societal relations. Graduates of our PhD program in Geography and Urban Studies are prepared for faculty positions in a range of academic disciplines; they work in programs and departments that range from traditional geography to more interdisciplinary ones like development studies and urban planning. They also work in NGOs, private sector firms and think tanks that deal with relevant issues.
+We offer an integrative doctoral program in Geography and Urban Studies that gives students a strong analytical foundation and stresses spatial relations, scale transitions, place and context and societal relations. Graduates of our PhD program in Geography and Urban Studies are prepared for faculty positions in a range of academic disciplines; they work in programs and departments that range from traditional geography to more interdisciplinary ones like development studies and urban planning. They also work in NGOs, private sector firms and think tanks that deal with relevant issues.
 
 We place emphasis on the following issues:
 - **Globalization**: Capital and labor flows, welfare state restructuring, identity, culture and concepts of citizenship
@@ -33,17 +32,17 @@ We place emphasis on the following issues:
 - **Sustainability**: Urban ecology, environmental justice, land use and sprawled development patterns
 - **Geographic Methods**: Spatial analysis, remote sensing, qualitative research
 
-[Learn More about the PhD in Geography and Urban Studies Program](http://bulletin.temple.edu/graduate/scd/cla/geography-urban-studies-phd/)
+Learn More about the [PhD in Geography and Urban Studies Program](http://bulletin.temple.edu/graduate/scd/cla/geography-urban-studies-phd/)
 
 ## PSM in GIS
-GIS is one of the 10 most employable skills of 2017 on [LinkedIn](https://www.weforum.org/agenda/2016/10/2017s-most-in-demand-skills-according-to-linkedin?utm_content=buffer23af8&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer), and the [U.S. Department of Labor](https://www.doleta.gov/brg/indprof/geospatial_profile.cfm) estimates that the geospatial technology market is growing at an annual rate of 35 percent. Full-time students can complete our Professional Science Master’s (PSM) degree in Geographic Information Systems (GIS) in as soon as a year. This means you can return or enter the workforce quickly. We produce competitive and skilled GIS technicians who easily pass the GISP certification exam. We are affiliated with the National Professional Science Master’s Association and work with an advisory board of professionals in the field ensures that we teach the skills employers seek.
+Geographic Information Systems (GIS) is one of the 10 most employable skills of 2017 on [LinkedIn](https://www.weforum.org/agenda/2016/10/2017s-most-in-demand-skills-according-to-linkedin?utm_content=buffer23af8&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer), and the [U.S. Department of Labor](https://www.doleta.gov/brg/indprof/geospatial_profile.cfm) estimates that the geospatial technology market is growing at an annual rate of 35 percent. Full-time students can complete our Professional Science Master’s (PSM) degree in Geographic Information Systems (GIS) in as soon as a year. This means you can return or enter the workforce quickly. We produce competitive and skilled GIS technicians who easily pass the GISP certification exam. We are affiliated with the National Professional Science Master’s Association and work with an advisory board of professionals in the field ensures that we teach the skills employers seek.
 
-[Learn More about the PSM in GIS](http://bulletin.temple.edu/graduate/scd/cla/geographic-information-systems-psm/)
+Learn More about the [PSM in GIS](http://bulletin.temple.edu/graduate/scd/cla/geographic-information-systems-psm/)
 
 ## Graduate Certificate in GIS
-We offer a Graduate Certificate for students who already have a BA and want to pursue additional coursework in GIS. Our courses introduce students to a variety of cutting-edge spatial analysis technology and mapping software. The certificate complements our Professional Science Master’s in GIS and serves as a gateway into the program. It also augments graduate programs in the College of Liberal Arts and throughout Temple University.
+We offer a Graduate Certificate for students who already have a bachelor’s degree and want to pursue additional coursework in GIS. Our courses introduce students to a variety of cutting-edge spatial analysis technology and mapping software. The certificate complements our Professional Science Master’s in GIS and serves as a gateway into the program. It also augments graduate programs in the College of Liberal Arts and throughout Temple University.
 
-[Learn More about the Graduate Certificate in GIS](http://bulletin.temple.edu/graduate/scd/cla/geographic-information-systems-certificate/)
+Learn More about the [Graduate Certificate in GIS](http://bulletin.temple.edu/graduate/scd/cla/geographic-information-systems-certificate/)
 
 ## Funding for Graduate School
 At Temple, we believe that students from all walks of life should have access to an outstanding college education. If you need help paying for graduate school, you aren’t alone. Most students receive some form of financial aid to fund their education. Graduate students are eligible for financial assistance from federal, state, private and university sources. Explore all available funding and apply early to make your college education an affordable experience.
