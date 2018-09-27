@@ -16,12 +16,11 @@ sidebar_content: sidebars/undergraduate.html
 Ready to go green with the Cherry and White? At the College of Liberal Arts, you can earn an [environmental studies degree](#major-in-environmental-studies) or [certificate in GIS](#undergraduate-certificate-in-gis). You can even [minor](#minor-in-environmental-studies) in environmental studies or take advantage of our [accelerated degree](#accelerated-degree-offerings-4-1) offerings. Not sure what path is right for you? Talk to [academic advising and professional development](#academic-advising-and-professional-development) to make sure you [fly in four](#fly-in-four) and build toward your future. Need to learn more? Take a look at our [tuition and fees](#tuition-and-fees), your [financial aid and scholarship](#financial-aid-and-scholarships) options, and [additional resources](#additional-undergraduate-resources).
 
 ## Major in Environmental Studies
-Environmental studies is an interdisciplinary major offered by the Department of Geography and Urban Studies. Environmental studies examines the nature, causes and consequences of human interactions with the environment. Environmental studies students seek to understand and address the crucial environmental issues of our time, such as climate change, environmental justice and resource management. Our students are introduced to physical geography, an understanding of the economic system and social science methods (GIS, spatial statistics, remote sensing, environmental impact assessment, quantitative and qualitative research methods) and are given flexibility to choose electives that fit the students’ own academic interests.
+Environmental Studies is an interdisciplinary major offered by the Department of Geography and Urban Studies. Environmental studies examines the nature, causes and consequences of human interactions with the environment. Environmental studies students seek to understand and address the crucial environmental issues of our time, such as climate change, environmental justice and resource management. Our students are introduced to physical geography, an understanding of the economic system and social science methods (GIS, spatial statistics, remote sensing, environmental impact assessment, quantitative and qualitative research methods) and are given flexibility to choose electives that fit the students’ own academic interests.
 
 This major prepares students for environmentally focused careers as well as graduate programs in environmental studies, sustainability, law, geography, resource management, planning and other fields.
 
 Environmental Studies students are introduced to:
-
 - Current environmental issues such as health and justice, geospatial techniques and environmental policy
 - Social science approaches to examining nature-society relations
 
@@ -33,17 +32,15 @@ A minor in environmental studies is available to any student enrolled at Temple 
 Learn More about [Minoring in Environmental Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/environmental-studies/minor-environmental-studies/)
 
 ## Undergraduate Certificate in GIS
-GIS is powerful analytical software that combines data with maps. It allows users to query, analyze and visualize spatial data, asking any “where” questions: “where are we seeing outbreaks of flu,” “where will this utility have the greatest impact” or “where should we open our storefront?” Because it is so widely applicable, geographic information has become one of the linchpins of the Information Age. Employers across industries are seeking candidates trained in geospatial technologies. Because its uses are so pervasive, the U.S. Department of Labor considers geospatial technology a high-growth industry, growing at [an annual rate of almost 35 percent](https://www.doleta.gov/brg/indprof/geospatial_profile.cfm), with faster-than-average job growth expected over the next 10 years.
+Geographic Information Systems (GIS) is powerful analytical software that combines data with maps. It allows users to query, analyze and visualize spatial data, asking any “where” questions: “where are we seeing outbreaks of flu,” “where will this utility have the greatest impact” or “where should we open our storefront?” Because it is so widely applicable, geographic information has become one of the linchpins of the Information Age. Employers across industries are seeking candidates trained in geospatial technologies. Because its uses are so pervasive, the U.S. Department of Labor considers geospatial technology a high-growth industry, growing at [an annual rate of almost 35 percent](https://www.doleta.gov/brg/indprof/geospatial_profile.cfm), with faster-than-average job growth expected over the next 10 years.
 
-Learn More About the [Certificate in Geographic Information Systems]http://bulletin.temple.edu/undergraduate/liberal-arts/certificate-programs/certificate-geographic-information-systems/)
+Learn More About the [Certificate in Geographic Information Systems](http://bulletin.temple.edu/undergraduate/liberal-arts/certificate-programs/certificate-geographic-information-systems/)
 
 ## Accelerated Degree Offerings (4+1)
 Students can start pursuing a graduate degree in their junior or senior year and complete their graduate degree in one additional year by enrolling in a 4+1 program. Students may enter the 4+1 program in their junior or senior year, taking up to four graduate-level courses during their undergraduate program. The remaining graduate credits are completed the year after completing their bachelor’s degree. Graduate-level courses completed during the junior or senior year may be used to satisfy major requirements, as appropriate.
 
 The 4+1 program allows students to begin pursuing a graduate degree in a high-growth area while still working toward an undergraduate degree, saving them time and money in earning their graduate degree.
-
-- BA/BS and Professional Science Master’s in GIS<br>
-- BA/BS and MA in Geography and Urban Studies<br>
+- BA/BS and Professional Science Master’s in [GIS](https://liberalarts.temple.edu/professional-science-master-s-geographic-information-systems-psm-gis-41)
 
 Questions? Contact [guses@temple.edu](mailto:guses@temple.edu).
 
@@ -53,7 +50,7 @@ Take full advantage of the [College of Liberal Arts](https://liberalarts.temple.
 Learn More about [Temple’s Award-Winning Advisors](https://liberalarts.temple.edu/advising)
 
 ## Fly in Four
-Take charge of your future and limit your debt. The Fly in 4 partnership allows you to complete your degree on time — or Temple will pay for your remaining coursework. Graduating on time means your path to success starts sooner. We provide you with the resources you need to graduate in four years, like academic advising and classes offered when you need them. You commit to doing what it takes to graduate in four years, and we'll help you get there.
+Take charge of your future and limit your debt. The Fly in 4 partnership allows you to complete your degree on time — or Temple will pay for your remaining coursework. Graduating on time means your path to success starts sooner. We provide you with the resources you need to graduate in four years, like academic advising and classes offered when you need them. You commit to doing what it takes to graduate in four years, and we’ll help you get there.
 
 Learn How to [Fly in Four](http://fly.temple.edu/)
 
