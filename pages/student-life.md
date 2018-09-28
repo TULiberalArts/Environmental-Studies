@@ -7,11 +7,10 @@ published: true
 title: Student Life
 description: >-
   Consider studying abroad, applying for awards or scholarships, and joining an undergraduate student organization
-  or graduate professional organization such as Gamma Theta Upsilon, through the Environmental Studies program 
+  or graduate professional organization such as Gamma Theta Upsilon, through the Environmental Studies program
   in the department of Geography and Urban Studies at Temple University's College of Liberal Arts.
 keywords: 'Department of Geography and Urban Studies, student organizations, Environmental Studies scholarships, Environmental Studies awards, Gamma Theta Upsilon'
 # custom variables
-sidebar: false
 ---
 Earning your environmental studies degree is about more than what you learn in the classroom. Consider [studying abroad](#study-abroad), applying for [awards or scholarships](#environmental-studies-awards-and-scholarships), join an [undergraduate student organization](#student-organizations-for-environmental-studies-students) or our [graduate professional organization](#graduate-professional-organizations-for-environmental-studies).
 

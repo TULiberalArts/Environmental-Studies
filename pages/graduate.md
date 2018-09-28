@@ -8,10 +8,8 @@ title: Graduate
 description: >-
 keywords: 'PhD in Geography and Urban Studies, Environmental Studies, PSM in GIS, MA in Geography and Urban Studies, Graduate Programs in Geography and Urban Studies'
 # custom variables
-sidebar: true
-sidebar_content: sidebars/graduate.html
-graduate_students: true
-graduate_students_content: profiles/graduate_students_2.html
+sidebar: sidebars/graduate.html
+graduate_students: profiles/graduate_students_2.html
 ---
 The College of Liberal Arts’ Geography and Urban Studies graduate degrees have several programs of study. Choose from earning a [Masters of Arts](#ma-in-geography-and-urban-studies) in geography and urban studies, a [PhD](#phd-in-geography-and-urban-studies) in geography and urban studies, a [Professional Science Masters](#psm-in-gis) in geographic information systems or a [Graduate Certificate](#graduate-certificate-in-gis) in geographic information systems. Get started by familiarizing yourself with your graduate school [funding options](#funding-for-graduate-school), our [admissions process](#admissions-process) and additional [resources](#graduate-resources).
 

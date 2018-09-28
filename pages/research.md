@@ -6,12 +6,11 @@ published: true
 # meta-data variables
 title: Research
 description: >-
-  Make use of the Spatial Analytics Lab at Temple University, and conduct research in focus areas like 
-  social justice, globalization, sustainability, and geographic methods. Research faculty and projects 
+  Make use of the Spatial Analytics Lab at Temple University, and conduct research in focus areas like
+  social justice, globalization, sustainability, and geographic methods. Research faculty and projects
   are open to students in geography and urban studies, environmental studies, and geographic information systems.
 keywords: 'research projects, research faculty, geography and urban studies, environmental studies, geographic information systems'
 # custom variables
-sidebar: false
 ---
 The College of Liberal Arts’ Geography and Urban Studies degree professors aren’t just teachers. They’re also researchers, and they encourage their students to contribute to their groundbreaking research. The Department of Geography and Urban Studies’ [selected research projects](#selected-research-projects) have four focus areas: [social justice](#focus-areas), [globalization](#focus-areas), [sustainability](#focus-areasy) and [geographic methods](#focus-areas). A portion of their work is performed at the [Spatial Analytics Lab](#spatial-analytics-lab-salt). Learn more about the department’s [research services](#our-services).
 
@@ -29,9 +28,9 @@ Our specific research foci include four main areas:
 - Sustainability
 - Geographic Methods
 
-## Selected Research Projects 
+## Selected Research Projects
 **Innovating Graduate STEM Education Through Bio-Social Partnerships [(Allison Hayes-Conroy)](https://liberalarts.temple.edu/academics/faculty/hayes-conroy-allison)**<br>
-**Funding:** National Science Foundation<br> 
+**Funding:** National Science Foundation<br>
 **Faculty Affiliated:** From Geography and Urban Studies: [Allison Hayes-Conroy](https://liberalarts.temple.edu/academics/faculty/hayes-conroy-allison), [Kevin Henry](https://liberalarts.temple.edu/academics/faculty/henry-kevin), [Hamil Pearsall](https://liberalarts.temple.edu/academics/faculty/pearsall-hamil), [Michele Masucci](https://liberalarts.temple.edu/academics/faculty/masucci-michele); From Biology: [Rob Kulathinal](https://www.cst.temple.edu/~robie/bioinform/index.html), [Sudhir Kumar](http://www.kumarlab.net/), [Tonia Hsieh](https://astro.temple.edu/~sthsieh/); From Education: [Carol Brandt](https://education.temple.edu/faculty/carol-brandt-phd); From the Franklin Institute: [Jayatri Das](https://www.fi.edu/scientists/jayatri-das-phd)
 
 Temple University’s Bio-social partnerships project encourages collaboration across the social and life sciences and beyond. The project is built around the BODIES SERIES graduate education sequence that is co-taught between the departments of Geography and Urban Studies and Biology. Collaborators see the human body–a complex, living phenomenon that is simultaneously biological and social–as a ”boundary object” between the biological/life and social/human sciences. The BODIES SERIES consists of a two-semester studio phase (fall-spring) and a final exhibit phase, which takes place in the summer months. Updated syllabi are available on the course materials page. The project began in fall 2015 and partners with the Franklin Institute, a science museum in Philadelphia. Learn more about this grant on the [Bio-Social Blog](https://biosocialblog.wordpress.com/).
@@ -43,7 +42,7 @@ The project aims to integrate Earth Observations from multiple satellite sources
 
 **Domesticated Elephants and Monsoon-Time Transportation in South and Southeast Asia [(Jacob Shell)](https://liberalarts.temple.edu/academics/faculty/shell-jacob)**<br>
 
-This research project focuses on Burmese and northeast Indian forest communities that train Asian elephants as a means of transportation. Up through the current decade, trained elephants have figured as an important option for humans seeking mobility across geographic zones that prohibit wheeled vehicles. Elephant-based transportation becomes especially important during the flooding season, when roads are obstructed. This dual-species form of mobility endures in the overlapping Kachin, Hkamti, Moran and Adi ethnic areas of the Indo-Burmese borderlands. Combining ethnographic fieldwork and archival work, the research project evaluates the potential advantages of these practices from political, ecological and conservation [standpoints](https://carbonmade-media.accelerator.net/33236169;600x450.webp). 
+This research project focuses on Burmese and northeast Indian forest communities that train Asian elephants as a means of transportation. Up through the current decade, trained elephants have figured as an important option for humans seeking mobility across geographic zones that prohibit wheeled vehicles. Elephant-based transportation becomes especially important during the flooding season, when roads are obstructed. This dual-species form of mobility endures in the overlapping Kachin, Hkamti, Moran and Adi ethnic areas of the Indo-Burmese borderlands. Combining ethnographic fieldwork and archival work, the research project evaluates the potential advantages of these practices from political, ecological and conservation [standpoints](https://carbonmade-media.accelerator.net/33236169;600x450.webp).
 [View Jacob Shell’s Visual Work](https://jacobshell.carbonmade.com/projects/6306253)
 
 **Gentrification and Green Space Development in Philadelphia [(Hamil Pearsall)](https://liberalarts.temple.edu/academics/faculty/pearsall-hamil)**

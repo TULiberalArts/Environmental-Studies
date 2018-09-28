@@ -10,8 +10,7 @@ description: >-
   health and justice, geospatial techniques, and environmental policy. Learn more about our GIS certificate, tuition, and advising.
 keywords: 'GIS certificate, Minor in Environmental Studies, BA in Environmental Studies, Environmental Studies Program, tuition, advising'
 # custom variables
-sidebar: true
-sidebar_content: sidebars/undergraduate.html
+sidebar: sidebars/undergraduate.html
 ---
 Ready to go green with the Cherry and White? At the College of Liberal Arts, you can earn an [environmental studies degree](#major-in-environmental-studies) or [certificate in GIS](#undergraduate-certificate-in-gis). You can even [minor](#minor-in-environmental-studies) in environmental studies or take advantage of our [accelerated degree](#accelerated-degree-offerings-4-1) offerings. Not sure what path is right for you? Talk to [academic advising and professional development](#academic-advising-and-professional-development) to make sure you [fly in four](#fly-in-four) and build toward your future. Need to learn more? Take a look at our [tuition and fees](#tuition-and-fees), your [financial aid and scholarship](#financial-aid-and-scholarships) options, and [additional resources](#additional-undergraduate-resources).
 

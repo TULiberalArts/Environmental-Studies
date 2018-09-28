@@ -6,11 +6,10 @@ published: true
 # meta-data variables
 title: Next Stops
 description: >-
-  Find out what you can do with a degree in Environmental Studies from Temple University. 
+  Find out what you can do with a degree in Environmental Studies from Temple University.
   Make your declaration at the College of Liberal Arts, visit us, learn about transfer options, and apply!
 keywords: 'Environmental Studies majors, visit, apply, transfer, Environmental Studies careers'
 # custom variables
-sidebar: false
 ---
 You care deeply about the health of the planet, enough to pursue an environmental studies degree. But what comes next? Find out what [you can do with a degree in environmental studies](#what-can-I-do-with-a-degree-in-environmental-studies?) and [make your declaration](#make-your-declaration) at the College of Liberal Arts! Need to learn more? Come [visit us](#visit-us) today, review the [application deadlines](#deadlines), consider your [transfer](#thinking-of-transferring) options and [apply](#apply)!
 
@@ -66,7 +65,7 @@ Many of our distinguished alumni have gone on to great accomplishments. The stor
   M.A. in Geography and Urban Studies from Temple in 2015<br/>
   
 - [Colleen Hammelman, PhD](https://liberalarts.temple.edu/news/alumni-spotlight-colleen-hammelman)<br/>
-  Assistant Professor, Department of Geography and Earth Sciences at UNC Charlotte<br/> 
+  Assistant Professor, Department of Geography and Earth Sciences at UNC Charlotte<br/>
   PhD in Geography and Urban Studies from Temple in 2016<br/>
   
  - [Michael Schwebel, PhD](https://liberalarts.temple.edu/news/alumni-spotlight-michael-schwebel)<br/>

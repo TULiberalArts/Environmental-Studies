@@ -11,7 +11,6 @@ description: >-
   Arts. View our academic offerings in affiliation with the Department of Geography and Urban Studies.
 keywords: 'Department of Geography and Urban Studies, Environmental Studies, academic offerings, Environmental Studies Program'
 # custom variables
-sidebar: false
 promotion-table: true
 feature: true
 feature-title: Globalization. Social Justice. Sustainability. Geographic Methods.
