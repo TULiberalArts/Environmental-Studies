@@ -73,4 +73,4 @@ Please visit the [Geography and Urban Studies Graduate Bulletin](http://bulletin
 
 ___
 
-{% include {{ page.graduate_students_content }} %}
+{% include {{ page.graduate_students }} %}
