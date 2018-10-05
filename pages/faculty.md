@@ -10,7 +10,7 @@ description: >-
   Urban Studies, Environmental Studies and GIS. Learn more about our faculty at the College of Liberal Arts at Temple University.
 keywords: 'Department of Geography and Urban Studies faculty, Environmental Studies faculty, Environmental Studies program'
 # custom variables
-
+faculty: profiles/faculty.html
 emeritus: profiles/emeritus.html
 ---
 Our Environmental Studies faculty are experts in Geography and Urban Studies, Environmental Studies and Geographic Information Systems.
