@@ -39,9 +39,14 @@ Learn More About the [Certificate in Geographic Information Systems](http://bull
 Students can start pursuing a graduate degree in their junior or senior year and complete their graduate degree in one additional year by enrolling in a 4+1 program. Students may enter the 4+1 program in their junior or senior year, taking up to four graduate-level courses during their undergraduate program. The remaining graduate credits are completed the year after completing their bachelor’s degree. Graduate-level courses completed during the junior or senior year may be used to satisfy major requirements, as appropriate.
 
 The 4+1 program allows students to begin pursuing a graduate degree in a high-growth area while still working toward an undergraduate degree, saving them time and money in earning their graduate degree.
-- BA/BS and Professional Science Master’s in [GIS](https://liberalarts.temple.edu/professional-science-master-s-geographic-information-systems-psm-gis-41)
+- [BA/BS and Professional Science Master’s in GIS](https://liberalarts.temple.edu/professional-science-master-s-geographic-information-systems-psm-gis-41)
 
 Questions? Contact [guses@temple.edu](mailto:guses@temple.edu).
+
+### B.A. in Geography and Urban Studies or Environmental Studies + M.A. in Geography and Urban Studies
+The M.A. in Geography and Urban Studies accelerated degree is open to Geography and Urban Studies and Environmental Studies majors. Students can apply as early as second semester sophomore year for entry their junior year or as late as second semester junior year for entry their senior year. 
+
+Learn More about the [B.A. in Geography and Urban Studies or Environmental Studies + M.A. in Geography and Urban Studies](https://liberalarts.temple.edu/ba-geography-and-urban-studies-environmental-studies-ma-geography-and-urban-studies-4-1)
 
 ## Academic Advising and Professional Development
 Take full advantage of the [College of Liberal Arts](https://liberalarts.temple.edu/)’ flexible curriculum with the help of our award-winning advisors. We help you select a major or minor and graduate on time. Beyond academics, our advisors ensure you have a rich experience at Temple by complementing your academic work with study abroad programs, internships and other experiential learning opportunities.
