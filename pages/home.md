@@ -31,7 +31,6 @@ Our department offers a BA in Environmental Studies and a MA and PhD in Geograph
 - Social science research methods, policy analysis, and technical skills
 - Written, oral and visual communication skills
 - Geographic Information Systems (GIS) and mapping software
-<div align="center" class="video-container"><iframe width="800" height="400" src="https://www.youtube.com/embed/ug_TJtS618A" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 
 ___
 
@@ -47,6 +46,10 @@ ___
 - [Graduate Certificate in Geographic Information Systems](http://bulletin.temple.edu/graduate/scd/cla/geographic-information-systems-certificate/)
 - [4+1 BA/BS and Professional Science Master’s in Geographic Information Systems](/environmental-studies/undergraduate#accelerated-degree-offerings-41)
 - [4+1 BA/BS and MA in Geography and Urban Studies](/environmental-studies/undergraduate#accelerated-degree-offerings-41)
+
+___
+
+<div align="center" class="video-container"><iframe width="800" height="400" src="https://www.youtube.com/embed/ug_TJtS618A" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 
 ___
 
