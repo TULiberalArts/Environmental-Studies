@@ -69,6 +69,6 @@ At Temple, we believe students from all walks of life should have access to an o
 [Student Financial Services](https://sfs.temple.edu/financial-aid-types)
 
 ## Additional Undergraduate Resources
-- [Changing your major](http://www.temple.edu/studentaffairs/orientation/freshman-orientation/changing-your-major.asp)
+- [Changing your major](https://liberalarts.temple.edu/advising/academic-advising/policies-and-procedures/change-program-procedures)
 - [Graduation application process](http://www.temple.edu/registrar/students/graduation)
 - [Undergraduate policies and procedures](http://bulletin.temple.edu/undergraduate/academic-policies/)
