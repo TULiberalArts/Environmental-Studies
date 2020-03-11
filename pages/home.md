@@ -54,7 +54,7 @@ ___
 ___
 
 <div class="row row-wide">
-  <div class="col m12 l4">{% include cards/card2-image.html
+  <div class="col m12 l4">{% include cards/card2-fixed.html
     title="Small Department. Big Opportunities."
     content="The environmental studies program is affiliated with the Department of Geography and Urban Studies — a department highly invested in student success."
     image=""
@@ -62,7 +62,7 @@ ___
     button-text="Learn More" %}
   </div>
   <div class="row row-wide">
-    <div class="col m12 l4">{% include cards/card2-image.html
+    <div class="col m12 l4">{% include cards/card2-fixed.html
       title="Faculty and Staff Support"
       content="Our faculty and administrative staff give students unmatched attention through mentorship, extracurricular and research opportunities."
       image=""
@@ -70,7 +70,7 @@ ___
       button-text="Learn More" %}
     </div>
     <div class="row row-wide">
-      <div class="col m12 l4">{% include cards/card2-image.html
+      <div class="col m12 l4">{% include cards/card2-fixed.html
         title="Invest in Your Future"
         content="Our students land competitive, meaningful jobs upon graduation in Philadelphia and beyond, working in business, government and non-profits sectors. The U.S. Department of Labor projects much faster than average job growth in environmentally related fields."
         image=""
