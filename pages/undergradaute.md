@@ -36,7 +36,10 @@ Geographic Information Systems (GIS) is powerful analytical software that combin
 Learn More About the [Certificate in Geographic Information Systems](http://bulletin.temple.edu/undergraduate/liberal-arts/certificate-programs/certificate-geographic-information-systems/)
 
 ## Accelerated Degree Offerings (4+1)
-Students can start pursuing a graduate degree in their junior or senior year and complete their graduate degree in one additional year by enrolling in a 4+1 program. Students may enter the 4+1 program in their junior or senior year, taking up to four graduate-level courses during their undergraduate program. The remaining graduate credits are completed the year after completing their bachelor’s degree. Graduate-level courses completed during the junior or senior year may be used to satisfy major requirements, as appropriate.
+Students can start pursuing a graduate degree in their junior or senior year and complete their graduate degree in one additional year by enrolling in a 4+1 program. 
+
+### Professional Science Master’s in Geographic Information Systems (PSM in GIS)
+Students may enter the 4+1 program in their junior or senior year, taking up to four graduate-level courses during their undergraduate program. The remaining graduate credits are completed the year after completing their bachelor’s degree. Graduate-level courses completed during the junior or senior year may be used to satisfy major requirements, as appropriate.
 
 The 4+1 program allows students to begin pursuing a graduate degree in a high-growth area while still working toward an undergraduate degree, saving them time and money in earning their graduate degree.
 
