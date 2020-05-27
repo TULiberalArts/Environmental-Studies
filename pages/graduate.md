@@ -11,12 +11,12 @@ keywords: 'PhD in Geography and Urban Studies, Environmental Studies, PSM in GIS
 sidebar: sidebars/graduate.html
 graduate_students: profiles/graduate_students_2.html
 ---
-The College of Liberal Arts’ Geography and Urban Studies graduate degrees have several programs of study. Choose from earning a [Masters of Arts](#ma-in-geography-and-urban-studies) in geography and urban studies, a [PhD](#phd-in-geography-and-urban-studies) in geography and urban studies, a [Professional Science Masters](#psm-in-gis) in geographic information systems or a [Graduate Certificate](#graduate-certificate-in-gis) in geographic information systems. Get started by familiarizing yourself with your graduate school [funding options](#funding-for-graduate-school), our [admissions process](#admissions-process) and additional [resources](#graduate-resources).
+The College of Liberal Arts’ Geography and Urban Studies graduate degrees have several programs of study. Choose from earning a [Masters of Arts](#master-of-arts-in-geography-and-urban-studies) in geography and urban studies, a [PhD](#phd-in-geography-and-urban-studies) in geography and urban studies, a [Professional Science Masters](#professional-science-masters-psm-in-geographic-information-systems-gis) in geographic information systems or a [Graduate Certificate](#graduate-certificate-in-gis) in geographic information systems. Get started by familiarizing yourself with your graduate school [funding options](#funding-for-graduate-school), our [admissions process](#admissions-process) and additional [resources](#graduate-resources).
 
 ## Programs of Study
 The MA and PhD in Geography and Urban Studies focus on the themes of globalization, sustainability, social justice and geographic methods. Our faculty have expertise in critical geography, spatial analysis, program evaluation and feminist geography. Our Professional Science Master’s and Graduate Certificate in GIS are rigorous, technical programs focused on cutting-edge spatial analysis software. Our faculty have expertise in GIS, remote sensing, cartography and geovisualization.
 
-## MA in Geography and Urban Studies
+## Master of Arts in Geography and Urban Studies
 Graduate students in Geography and Urban Studies emphasize research in environmental issues, gender and race, geographic methods, international development, social and spatial theory and urban development. The MA degree is designed to prepare students for further graduate study as well as for professional positions related to urban and economic development, environmental sustainability and social justice. Students in the MA have the option to pursue a Graduate Certificate in GIS with no additional coursework.
 
 Learn More about the [MA in Geography and Urban Studies Program](http://bulletin.temple.edu/graduate/scd/cla/geography-urban-studies-ma/)
@@ -32,7 +32,7 @@ We place emphasis on the following issues:
 
 Learn More about the [PhD in Geography and Urban Studies Program](http://bulletin.temple.edu/graduate/scd/cla/geography-urban-studies-phd/)
 
-## PSM in GIS
+## Professional Science Master’s (PSM) in Geographic Information Systems (GIS)
 Geographic Information Systems (GIS) is one of the 10 most employable skills of 2017 on [LinkedIn](https://www.weforum.org/agenda/2016/10/2017s-most-in-demand-skills-according-to-linkedin?utm_content=buffer23af8&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer), and the [U.S. Department of Labor](https://www.doleta.gov/) estimates that the geospatial technology market is growing at an annual rate of 35 percent. Full-time students can complete our Professional Science Master’s (PSM) degree in Geographic Information Systems (GIS) in as soon as a year. This means you can return or enter the workforce quickly. We produce competitive and skilled GIS technicians who easily pass the GISP certification exam. We are affiliated with the National Professional Science Master’s Association and work with an advisory board of professionals in the field ensures that we teach the skills employers seek.
 
 Learn More about the [PSM in GIS](http://bulletin.temple.edu/graduate/scd/cla/geographic-information-systems-psm/)
