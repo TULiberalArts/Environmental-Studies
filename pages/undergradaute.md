@@ -57,10 +57,10 @@ Take full advantage of the [College of Liberal Arts](https://liberalarts.temple.
 
 Learn More about [Temple’s Award-Winning Advisors](https://liberalarts.temple.edu/advising)
 
-## Fly in Four
+## Fly in 4
 Take charge of your future and limit your debt. The Fly in 4 partnership allows you to complete your degree on time — or Temple will pay for your remaining coursework. Graduating on time means your path to success starts sooner. We provide you with the resources you need to graduate in four years, like academic advising and classes offered when you need them. You commit to doing what it takes to graduate in four years, and we’ll help you get there.
 
-Learn How to [Fly in Four](http://fly.temple.edu/)
+Learn How to [Fly in 4](http://fly.temple.edu/)
 
 ## Tuition and Fees
 Students have been receiving world-class Temple educations at affordable prices for more than 125 years. Compare Temple to other comparable universities, and you’ll see how your dollars go further here. Please note that Temple tuition rates vary by school or college, student level, residency status and more. Use the Temple tuition calculator to estimate your tuition rate.
