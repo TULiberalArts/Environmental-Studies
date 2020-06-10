@@ -23,17 +23,17 @@ Environmental Studies students are introduced to:
 - Current environmental issues such as health and justice, geospatial techniques and environmental policy
 - Social science approaches to examining nature-society relations
 
-Learn More about the [BA in Environmental Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/environmental-studies/ba-environmental-studies/)
+Learn More about the [Bachelor of Arts in Environmental Studies](https://www.temple.edu/academics/degree-programs/environmental-studies-major-la-enst-ba)
 
 ## Minor in Environmental Studies
 A minor in environmental studies is available to any student enrolled at Temple University. Many students choose to add an Environmental Studies minor as a complement to their primary major. This is an 18-credit minor, requiring students to take one gateway course and five electives.
 
-Learn More about [Minoring in Environmental Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/environmental-studies/minor-environmental-studies/)
+Learn More about the [Minor in Environmental Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/environmental-studies/minor-environmental-studies/)
 
 ## Undergraduate Certificate in Geographic Information Systems (GIS)
 Geographic Information Systems (GIS) is powerful analytical software that combines data with maps. It allows users to query, analyze and visualize spatial data, asking any “where” questions: “where are we seeing outbreaks of flu,” “where will this utility have the greatest impact” or “where should we open our storefront?” Because it is so widely applicable, geographic information has become one of the linchpins of the Information Age. Employers across industries are seeking candidates trained in geospatial technologies. Because its uses are so pervasive, the U.S. Department of Labor considers geospatial technology a high-growth industry, growing at [an annual rate of almost 35 percent](https://www.doleta.gov), with faster-than-average job growth expected over the next 10 years.
 
-Learn More About the [Certificate in Geographic Information Systems](http://bulletin.temple.edu/undergraduate/liberal-arts/certificate-programs/certificate-geographic-information-systems/)
+Learn More About the [Certificate in Geographic Information Systems](https://www.temple.edu/academics/degree-programs/geographic-information-systems-certificate-undergraduate-la-gis-cert)
 
 ## Accelerated Degree Offerings (4+1)
 Students can start pursuing a graduate degree in their junior or senior year and complete their graduate degree in one additional year by enrolling in a 4+1 program. 
@@ -70,7 +70,7 @@ Students have been receiving world-class Temple educations at affordable prices 
 ## Financial Aid and Scholarships
 At Temple, we believe students from all walks of life should have access to an outstanding college education. If you need help paying for your education, you aren’t alone. Most students receive some form of financial aid to fund their education. About 60 percent of first-year Temple students receive need-based financial aid, and the average first-year financial aid package is about $15,000. Eligible students receive financial assistance from federal, state, private and university sources. Explore your financial aid options and apply early to make your college education an affordable experience.
 
-[Student Financial Services](https://sfs.temple.edu/financial-aid-types)
+Learn More about the [College of Liberal Arts and Environmental Studies Scholarships and Financial Aid](https://www.temple.edu/academics/degree-programs/environmental-studies-major-la-enst-ba/environmental-studies-ba-scholarships-financial-aid-) opportunities
 
 ## Additional Undergraduate Resources
 - [Changing your major](https://liberalarts.temple.edu/advising/academic-advising/policies-and-procedures/change-program-procedures)
