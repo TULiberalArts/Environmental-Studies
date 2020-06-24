@@ -62,7 +62,7 @@ We provide financial support to full-time doctoral students through a variety of
 - [Learn More about Paying for Graduate School at Temple](http://www.temple.edu/grad/finances/)
 
 ## Admissions Process
-Visit the [Geography and Urban Studies MA Scholarships & Financial Aid page](https://www.temple.edu/academics/degree-programs/geography-and-urban-studies-ma-la-gus-ma/cla-geography-and-urban-studies-ma-scholarships-financial-aid), the [Geography and Urban Studies PhD Scholarships & Financial Aid page](https://www.temple.edu/academics/degree-programs/geography-and-urban-studies-phd-la-gus-phd/cla-geography-and-urban-studies-phd-scholarships-financial-aid) or the [PSM in GIS Scholarships & Financial Aid page](https://www.temple.edu/academics/degree-programs/geographic-information-systems-psm-la-gis-psm) to learn more about your graduate funding options.
+Please visit the [Geography and Urban Studies MA Admissions page](https://www.temple.edu/academics/degree-programs/geography-and-urban-studies-ma-la-gus-ma/cla-geography-and-urban-studies-ma-admissions), the [Geography and Urban Studies PhD Admissions page](https://www.temple.edu/academics/degree-programs/geography-and-urban-studies-phd-la-gus-phd/cla-geography-and-urban-studies-phd-admissions) or the [PSM in GIS Admissions page](https://www.temple.edu/academics/degree-programs/geographic-information-systems-psm-la-gis-psm/cla-geographic-information-systems-psm-admissions) to learn more about graduate program requirements, dates and deadlines and instructions on how to apply.
 
 **PhD Application Deadline:**<br>
 - **Fall:** January 15 <br>
